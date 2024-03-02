@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #49adc9;
+      }
+
+      .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="79" y="41" width="9" height="10"/>
+  <path class="cls-2" d="M75,41H63l-9-9V44L67,63V98h37l9-9V32l-9,9H92V55H75V41Z"/>
+  <path class="cls-2" d="M54,27L65,37h37l11-10V16H54V27Z"/>
+  <path id="Shape_10_copy_3" data-name="Shape 10 copy 3" class="cls-3" d="M20,114L9,98V65L20,49v8h7l4-14H41l4,14h7V49L63,65V98L52,114v-8H45l-4,14H31l-4-14H20v8ZM47,84h0ZM36,74a7.991,7.991,0,1,1-7.746,5.992A8,8,0,0,1,36,74ZM9,80H28v4H9V80Zm25-8V64h4v8H34ZM54,84H46V80h8v4ZM34,100V92h4v8H34ZM21,70l3-3,6,6-3,3Zm27-3,3,3-6,6-3-3ZM21,94l3,3,6-6-3-3Zm27,3,3-3-6-6-3,3Z"/>
+</svg>

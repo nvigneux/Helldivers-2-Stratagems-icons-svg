@@ -1,0 +1,21 @@
+<svg id="HD2-AT" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #49adc9;
+      }
+    </style>
+  </defs>
+  <g id="HD2-AT-2" data-name="HD2-AT">
+    <path class="cls-1" d="M12,39l2,3,36-7,3,16L71,35l2,12,41-5V39L76,43,73,27,56,43,54,31Z"/>
+    <path class="cls-2" d="M120,80h-4l-3,3v4l-1,1h-2l-2-2h-7l-1,1H99V86H97l-1,2H95V86H93l-1,2H91V86H89l-1,2H87V86H81V97H76V86H68v2H64L51,108H47l-9-5V99l4-5V90l-1-2H35V86H21L11,97H6L5,96V75h6V74H30v1h3V74h5l6-7h4l1-1h7l1,1h6l3,3v3h6l1,1h37l1-1h1l2,3h7v3ZM44,104l1,1h4l6-8V95H48l-4,6v3Zm6-35H46l-4,3v1h6l2-3V69Zm2,21v3h5V90H52ZM66,74l-4-5H56v2h4l4,4h2V74Z"/>
+  </g>
+</svg>

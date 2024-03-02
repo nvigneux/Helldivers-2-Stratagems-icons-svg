@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #49adc9;
+      }
+
+      .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="79" y="41" width="9" height="10"/>
+  <path class="cls-2" d="M75,41H64L54,32V46l11,4V98h39l9-9V32l-10,9H92V55H75V41Z"/>
+  <path class="cls-3" d="M31,63"/>
+  <path class="cls-2" d="M54,27L65,37h37l11-10V16H54V27Z"/>
+  <path id="Shape_14_copy" data-name="Shape 14 copy" class="cls-3" d="M8,99s24,16,26,16S60,99,60,99V53s-22.07-6-26-6S8,53,8,53V99ZM42,62a3.491,3.491,0,0,1,2-1h2s2-.031,2,1v2a3.618,3.618,0,0,1-2,1H44s-2,0-2-1V62Zm0,6h6V89s-1.06,4-3,4-3-4-3-4V68ZM31,62a3.491,3.491,0,0,1,2-1h2s2-.031,2,1v2a3.618,3.618,0,0,1-2,1H33s-2,0-2-1V62Zm0,6h6V89s-1.06,4-3,4-3-4-3-4V68ZM20,62a3.491,3.491,0,0,1,2-1h2s2-.031,2,1v2a3.618,3.618,0,0,1-2,1H22s-2,0-2-1V62Zm0,6h6V89s-1.061,4-3,4-3-4-3-4V68Z"/>
+</svg>
