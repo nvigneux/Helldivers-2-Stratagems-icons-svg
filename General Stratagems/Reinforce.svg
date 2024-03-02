@@ -1,0 +1,23 @@
+<svg id="Reinforce" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #c9b269;
+      }
+    </style>
+  </defs>
+  <g>
+    <path id="Shape_1_copy" data-name="Shape 1 copy" class="cls-1" d="M85,108H23l-8-9V89H32l10,9H66l10-9H93V99Z"/>
+    <path class="cls-1" d="M54,94L31,77V57h4c0-18.7,19-19,19-19s19,0.3,19,19h4V77ZM68,57H40V71h7l3-4h8l3,4h7V57Z"/>
+    <path id="Rectangle_1_copy" data-name="Rectangle 1 copy" class="cls-1" d="M116,42H98V59H93V42H76V37H93V19h5V37h18v5Z"/>
+    <path class="cls-2" d="M4,122V102l20,20H4Zm118,0V102l-20,20h20ZM122,4V24L102,4h20ZM4,4V24L24,4H4Z"/>
+  </g>
+</svg>
