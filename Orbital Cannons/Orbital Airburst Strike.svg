@@ -1,0 +1,39 @@
+<svg id="HD2-OAS" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #de7b6c;
+      }
+
+      .cls-1, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="HD2-OAS-2" data-name="HD2-OAS">
+    <path class="cls-1" d="M98.924,120c-0.329-11.02-2-19.88-4.454-27h15.288A53.738,53.738,0,0,1,117,120H98.924ZM86.182,77.406l-3.011-7.458A54.054,54.054,0,0,1,107.9,90H93.357A50.578,50.578,0,0,0,86.182,77.406ZM90.327,90H69V68.261c0.319,0.12.622,0.256,0.934,0.383l6.2,15.365,8.705-3.681A47.072,47.072,0,0,1,90.327,90ZM42.165,80.331l8.7,3.678,6.2-15.361c0.312-.128.616-0.264,0.936-0.384V90H36.681A47.093,47.093,0,0,1,42.165,80.331ZM33.635,90H18.1A54.027,54.027,0,0,1,44.012,69.494l-3.174,7.863A50.523,50.523,0,0,0,33.635,90Zm-5.559,30H9a53.732,53.732,0,0,1,7.242-27H32.523C30.077,100.12,28.4,108.98,28.076,120ZM63,174a53.726,53.726,0,0,1-32.644-11H95.644A53.726,53.726,0,0,1,63,174ZM91.509,93a85.481,85.481,0,0,1,4.58,27H65V93H91.509ZM35.5,93H62v27H30.912A85.548,85.548,0,0,1,35.5,93Z"/>
+    <path class="cls-1" d="M76,84"/>
+    <g>
+      <rect class="cls-2" x="62" y="49" width="3" height="4"/>
+      <rect id="Rectangle_5_copy" data-name="Rectangle 5 copy" class="cls-2" x="62" y="58" width="3" height="4"/>
+      <rect id="Rectangle_5_copy_2" data-name="Rectangle 5 copy 2" class="cls-2" x="62" y="67" width="3" height="4"/>
+      <rect id="Rectangle_5_copy_3" data-name="Rectangle 5 copy 3" class="cls-2" x="62" y="76" width="3" height="4"/>
+      <rect id="Rectangle_5_copy_4" data-name="Rectangle 5 copy 4" class="cls-2" x="62" y="85" width="3" height="4"/>
+      <path id="Rectangle_5_copy_5" data-name="Rectangle 5 copy 5" class="cls-3" d="M55.92,47.829l2.858,0.913-1.218,3.81L54.7,51.639Z"/>
+      <path id="Rectangle_5_copy_6" data-name="Rectangle 5 copy 6" class="cls-3" d="M53.18,56.4l2.858,0.913-1.218,3.81-2.858-.913Z"/>
+      <path id="Rectangle_5_copy_7" data-name="Rectangle 5 copy 7" class="cls-3" d="M50.44,64.974L53.3,65.887,52.08,69.7l-2.858-.913Z"/>
+      <path id="Rectangle_5_copy_8" data-name="Rectangle 5 copy 8" class="cls-3" d="M47.44,72.974L50.3,73.887,49.08,77.7l-2.858-.913Z"/>
+      <path id="Rectangle_5_copy_9" data-name="Rectangle 5 copy 9" class="cls-3" d="M68.426,48.547l2.836-.978,1.3,3.782-2.836.978Z"/>
+      <path id="Rectangle_5_copy_10" data-name="Rectangle 5 copy 10" class="cls-3" d="M71.36,57.055l2.836-.978,1.3,3.782-2.836.978Z"/>
+      <path id="Rectangle_5_copy_11" data-name="Rectangle 5 copy 11" class="cls-3" d="M74.293,65.564l2.836-.978,1.3,3.782-2.836.978Z"/>
+      <path id="Rectangle_5_copy_12" data-name="Rectangle 5 copy 12" class="cls-3" d="M76.676,73.769l2.836-.978,1.3,3.782-2.836.978Z"/>
+      <path class="cls-3" d="M70.769,32.625L76,37l-6.269-.25L71,43l-5-4-2.5,6L61,39l-5,4,1.269-6.25L51,37l5.231-4.375L51,29h6l-1-6,6,4V12h3V27l6-4-1,6h6Z"/>
+      <path class="cls-3" d="M96,29"/>
+      <path class="cls-3" d="M86,23"/>
+    </g>
+  </g>
+</svg>
