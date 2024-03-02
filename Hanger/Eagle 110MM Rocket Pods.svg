@@ -1,0 +1,26 @@
+<svg id="avion_base_copy" data-name="avion base copy" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #de7b6c;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="queue_copy_2" data-name="queue copy 2" class="cls-1" d="M9,47l29-8,9-29,7,7V55H16Z"/>
+  <path class="cls-1" d="M82,25v4l-8.406-7.406L78,10,95,20V37.188ZM75,62l8,1L95,75v8l17,17,1,14-15-2L82,95H75.75L63,83V75L49.981,63.427,59,60l3.855-10.145ZM19,95L9,79l12.905-4.9L30,83H26L37.294,95H19Z"/>
+  <path class="cls-1" d="M105,78"/>
+  <path class="cls-2" d="M50,69V86H33l8,8h8l11,12H71V96L59,85V77Z"/>
+  <path class="cls-2" d="M43,80l-6-6H28l5,6H43Z"/>
+  <path class="cls-2" d="M38,63v9l6,6V68Z"/>
+  <path class="cls-2" d="M63,38l6,7h9l-6-7H63Z"/>
+  <path class="cls-2" d="M74,37l6,6V33l-6-5v9Z"/>
+  <path class="cls-2" d="M69,50H86V34l8,8v7l12,12V71H96L85,59H77Z"/>
+</svg>

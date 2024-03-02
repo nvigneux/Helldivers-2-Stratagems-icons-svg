@@ -1,0 +1,29 @@
+<svg id="HD2-ESR" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #de7b6c;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g>
+    <path id="queue_copy_2" data-name="queue copy 2" class="cls-1" d="M9,47l29-8,9-29,7,7V55H16Z"/>
+    <path class="cls-1" d="M75.839,15.686L78,10,95,20V34.471Zm-9.68,25.474L95,70V83l17,17,1,14-15-2L82,95H71L42.333,66.333,59,60ZM9,79l7.246-2.754L35,95H19Z"/>
+    <path class="cls-2" d="M14,69l5-5L34,79l-5,5Z"/>
+    <path id="Shape_21_copy" data-name="Shape 21 copy" class="cls-2" d="M30,85l5-5L50,95l-5,5Z"/>
+    <path id="Shape_21_copy_2" data-name="Shape 21 copy 2" class="cls-2" d="M33,73l5-5L53,83l-5,5Z"/>
+    <path id="Shape_21_copy_3" data-name="Shape 21 copy 3" class="cls-2" d="M49,89l5-5L69,99l-5,5Z"/>
+    <path id="Shape_21_copy_4" data-name="Shape 21 copy 4" class="cls-2" d="M64,19l5-5L84,29l-5,5Z"/>
+    <path id="Shape_21_copy_5" data-name="Shape 21 copy 5" class="cls-2" d="M80,35l5-5,15,15-5,5Z"/>
+    <path id="Shape_21_copy_6" data-name="Shape 21 copy 6" class="cls-2" d="M68,38l5-5L88,48l-5,5Z"/>
+    <path id="Shape_21_copy_7" data-name="Shape 21 copy 7" class="cls-2" d="M84,54l5-5,15,15-5,5Z"/>
+  </g>
+</svg>

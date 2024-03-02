@@ -1,0 +1,20 @@
+<svg id="avion_base" data-name="avion base" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #de7b6c;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Shape_15_copy" data-name="Shape 15 copy" class="cls-1" d="M43.921,19.921L47,10l7,7V30ZM31.053,55H16L9,47l11.475-3.166Z"/>
+  <path class="cls-1" d="M98,112L82,95H19L9,79,42.333,66.333,63,87H87V63L65.884,41.884,78,10,95,20V83l17,17,1,14Z"/>
+  <path class="cls-2" d="M46,55V65L65,83H83V64L65,46H54V35L42,24,39,38,25,43,36,55H46Z"/>
+</svg>

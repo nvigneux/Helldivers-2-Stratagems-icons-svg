@@ -1,0 +1,22 @@
+<svg id="avion_base_copy_2" data-name="avion base copy 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #de7b6c;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="queue_copy_2" data-name="queue copy 2" class="cls-1" d="M9,47l29-8,9-29,7,7V55H16Z"/>
+  <path id="Ellipse_1_copy_5" data-name="Ellipse 1 copy 5" class="cls-1" d="M98,112L82,95H72a9.994,9.994,0,0,0-19-4.337,9.983,9.983,0,0,0-18,0,9.987,9.987,0,0,0-18.295.665L9,79,59,60,78,10l12.47,7.335A9.985,9.985,0,0,0,88.663,36a9.983,9.983,0,0,0,0,18A10,10,0,0,0,95,72.8V83l17,17,1,14Z"/>
+  <circle class="cls-2" cx="26" cy="95" r="8"/>
+  <circle id="Ellipse_1_copy" data-name="Ellipse 1 copy" class="cls-2" cx="44" cy="95" r="8"/>
+  <circle id="Ellipse_1_copy_2" data-name="Ellipse 1 copy 2" class="cls-2" cx="62" cy="95" r="8"/>
+  <circle id="Ellipse_1_copy_9" data-name="Ellipse 1 copy 9" class="cls-2" cx="93" cy="63" r="8"/>
+  <circle id="Ellipse_1_copy_10" data-name="Ellipse 1 copy 10" class="cls-2" cx="93" cy="45" r="8"/>
+  <circle id="Ellipse_1_copy_11" data-name="Ellipse 1 copy 11" class="cls-2" cx="93" cy="27" r="8"/>
+</svg>
