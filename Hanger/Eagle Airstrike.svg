@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #de7b6c;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="queue" class="cls-1" d="M9,47l29-8,9-29,7,7V55H16Z"/>
+  <path class="cls-1" d="M113,114l-15-2L82,95H19L9,79,59,60,78,10,95,20V83l17,17ZM34,83l-2,6,4,5,3,1H70L61,85H54V79l-4-5H42v9H34ZM95,36l-4-4H83v9H76l-2,6,6,6h6v5l9,11V36Z"/>
+  <path class="cls-2" d="M36,86h9V77h3l3,3v8h8l7,8v11H54l-7-8V92H39l-3-3V86Z"/>
+  <path class="cls-2" d="M86,44V35h4l3,4v7h7l8,8V66H96l-7-9V50H81l-3-3V44h8Z"/>
+</svg>
