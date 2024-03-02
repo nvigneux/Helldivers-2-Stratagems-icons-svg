@@ -1,0 +1,21 @@
+<svg id="HD2-SG" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #679552;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g>
+    <path id="Rectangle_3_copy_2" data-name="Rectangle 3 copy 2" class="cls-1" d="M121,121H5V100.955L22,94l20,10L63,94l21,10,20-10,17,7.192V121Z"/>
+    <path class="cls-2" d="M37,75S61,91,63,91,89,75,89,75V29s-22.07-6-26-6-26,6-26,6V75ZM52,57L67,36,62,53H74L59,73l5-16H52Z"/>
+  </g>
+</svg>
