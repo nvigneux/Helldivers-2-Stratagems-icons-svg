@@ -1,0 +1,23 @@
+<svg id="HD2-IM" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #679552;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g>
+    <path id="Rectangle_3_copy_3" data-name="Rectangle 3 copy 3" class="cls-1" d="M121,121H5V100.955L22,94l20,10L63,94l21,10,20-10,17,7.192V121Z"/>
+    <path id="Shape_18_copy" data-name="Shape 18 copy" class="cls-2" d="M29,93V82H97V93L84,99,63,89,42,99Z"/>
+    <path class="cls-2" d="M58,78L46,66V54l9-8,4-15L69,45v7l4-4L83,60,65,78V70l4-4-6-3V55L56,65l3,4v9H58Z"/>
+    <path class="cls-2" d="M52,78H38V69h5Zm28-9h8v9H71Z"/>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg id="HD2-LC" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #49adc9;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="HD2-LC-2" data-name="HD2-LC">
+    <path class="cls-1" d="M118,95H101v2H97v6l-5,5H87l-1,6v1H80l-8-3-1-2,4-5v-3H64l-2-2V97H59l-2,3v6H56v6H49v-6l-7-8H37V94H34v2H27V94H14l-2,3H8V94H5V79H8V76h4l2,3H27V76h7v3h5V68h3v4H64v4h2V69h3v9h6l4,3h23V80h4V77h2v3h2V77h2v3h2V77h2v3h3V78h2V93Zm-64,5H53v5h1v-5Zm0,6H53v5h1v-5Zm24,2v4h6v-7H81Zm11-7H84v3h5v-3Z"/>
+    <path id="Rectangle_5_copy_4" data-name="Rectangle 5 copy 4" class="cls-2" d="M94,38V34h10v4H94ZM89.05,25.172L96.121,18.1l2.828,2.828L91.879,28ZM81,46a10,10,0,0,1-9.541-7H23V33H71.459A10,10,0,1,1,81,46ZM79,13h4V23H79V13ZM63.007,20.852l2.855-2.864L73,25.148l-2.855,2.864Zm10.011,26-7.15,7.161-2.86-2.864,7.15-7.161ZM83,59H79V49h4V59Zm16.012-7.929L96.179,53.9,89.1,46.828,91.929,44Z"/>
+  </g>
+</svg>
