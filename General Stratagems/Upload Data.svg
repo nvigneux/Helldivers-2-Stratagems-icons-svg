@@ -1,0 +1,22 @@
+<svg id="Upload" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c9b269;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Upload-2" data-name="Upload">
+    <path id="Shape_4_copy_2" data-name="Shape 4 copy 2" class="cls-1" d="M4,122V102l20,20H4Zm118,0V102l-20,20h20ZM122,4V24L102,4h20ZM4,4V24L24,4H4Z"/>
+    <path class="cls-2" d="M9,78V88L19,98h88l10-10V78H73V92H53V78H9Z"/>
+    <path class="cls-2" d="M26,74V28h74V74H26ZM63,34L41,57H53V71H73V57H85Z"/>
+  </g>
+</svg>
