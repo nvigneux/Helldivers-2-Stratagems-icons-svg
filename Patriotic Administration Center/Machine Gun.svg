@@ -1,0 +1,23 @@
+<svg id="HD2-MG" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #49adc9;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="HD2-MG-2" data-name="HD2-MG">
+    <path class="cls-1" d="M121,85v3H67v6H64v16H53V93H45a50.6,50.6,0,0,0-1,9s-2.038,2.452-7-1c0,0-.913-2.905,3-8V90l-2-2H16v2h1v2l-1,1H13l-3-3H8L7,93H4V78h8l2,3h5l1-1h7l4-2H47V77H65v1h4v2h52v2h-2v3h2ZM52,89H46v3h6V89Z"/>
+    <path id="Shape_30_copy" data-name="Shape 30 copy" class="cls-2" d="M90,63H79v2H40V53H79v2H90s4,2.986,4,4S90,63,90,63ZM31,53h5V65H31V53Z"/>
+    <path id="Shape_30_copy_2" data-name="Shape 30 copy 2" class="cls-2" d="M90,46H79v2H40V36H79v2H90s4,2.986,4,4S90,46,90,46ZM31,36h5V48H31V36Z"/>
+    <path id="Shape_30_copy_3" data-name="Shape 30 copy 3" class="cls-2" d="M90,29H79v2H40V19H79v2H90s4,2.986,4,4S90,29,90,29ZM31,19h5V31H31V19Z"/>
+  </g>
+</svg>

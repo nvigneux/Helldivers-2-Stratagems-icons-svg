@@ -1,0 +1,21 @@
+<svg id="HD2-EAT" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #49adc9;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="HD2-EAT-2" data-name="HD2-EAT">
+    <path class="cls-1" d="M4,95V86l6-5V76H24l3-3h2v5h6l3,1,1,2H62l4-3H95v2l4,1,1,3h19l2,2v17l-2,2H97v1H92v-1H68v1H66v-1H53v1H27v-1H6l-2-2V95Z"/>
+    <path id="Shape_15_copy" data-name="Shape 15 copy" class="cls-2" d="M80,52c-8.333,0-28-7-28-7H45l-4,7H26l4-9H25l-3,9H14l5-12V39L14,27h8l3,9h5l-4-9H41l4,7h7s19.667-7,28-7,32,7,32,7V45S88.333,52,80,52Z"/>
+  </g>
+</svg>

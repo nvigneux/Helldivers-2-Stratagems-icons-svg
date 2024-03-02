@@ -1,0 +1,23 @@
+<svg id="HD2-SPE" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #49adc9;
+      }
+    </style>
+  </defs>
+  <g id="HD2-SPE-2" data-name="HD2-SPE">
+    <path class="cls-1" d="M24,26H39L24,13V26Z"/>
+    <path class="cls-1" d="M24,53H39L24,66V53Z"/>
+    <path class="cls-1" d="M24,30H97s9,1.032,9,10-9,9-9,9H24V30Zm71.5,4A5.5,5.5,0,1,1,90,39.5,5.5,5.5,0,0,1,95.5,34Z"/>
+    <path class="cls-2" d="M110,95l-3,3H98l-4,11H91l-3-3H85v3H79l-6-3H72l-9,9H59L48,98H34l-3-3H14V84H33V81h7V78H82V76h24v2h1v4h5V95h-2Zm-49,5v8l8-8H61Zm20,3H76v3l5,1v-4Z"/>
+  </g>
+</svg>
