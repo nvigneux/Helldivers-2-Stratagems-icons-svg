@@ -1,0 +1,21 @@
+<svg id="HD2-FT" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #49adc9;
+      }
+    </style>
+  </defs>
+  <g id="HD2-FT-2" data-name="HD2-FT">
+    <path class="cls-1" d="M62,65V56l-3-4,6-10,1,2,1,3,5,5-4,5v8L83,51s-0.034-6.1-5-18a52.362,52.362,0,0,0-5,7V28L60,15,58,31l-9,9V54Z"/>
+    <path class="cls-2" d="M81,92v1h3v4l-4,4H76v3l-12,9H57l-5-7v-6L45,90H29l-4,5H9L4,91V83H22l2-2H42V79h8v2h4V79H74v2h9v2h30l2,1h3v2h-1l-2,1v3h3V87l2,1h1v4H81ZM23,87H16l-1,2H14l-1-2H10v6H21l2-2V87Zm43,5-4-4H50v3l7,8h2l7-4V92Zm46-4H81v2h31V88Z"/>
+  </g>
+</svg>

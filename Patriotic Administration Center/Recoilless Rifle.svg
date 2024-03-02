@@ -1,0 +1,21 @@
+<svg id="HD2-RR" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #49adc9;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="HD2-RR-2" data-name="HD2-RR">
+    <path class="cls-1" d="M39,75V73H89v2h32V90h-4v1H107V90H96v1h6v2H94l-3,8H81V96H79l-7,10-4-4,7-10H50v17H45V99l-4-5H35l-1-2H24l-1-2H20l-9,5H6L4,93V74l2-2h5l9,3H39ZM82,93l2-2,4,4-2,2Z"/>
+    <path id="Shape_32_copy" data-name="Shape 32 copy" class="cls-2" d="M79,50c-5.267,0-30-7-30-7H35l-4,9H17l5-12V39L17,27H31l4,9H49s24.733-7,30-7,28,7,28,7v7S84.267,50,79,50Z"/>
+  </g>
+</svg>

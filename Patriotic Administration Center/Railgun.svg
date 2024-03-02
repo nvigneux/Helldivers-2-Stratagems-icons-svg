@@ -1,0 +1,20 @@
+<svg id="HD2-RG" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #49adc9;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M121,83v9H81V90H70v2H49l-2,4H39l-7,9H29l-9-8H12V96H5V78H42V77h4v1h5V77h3v1h2V77h2v1h2V77h4v1H75V77h46v4h-3v2h3ZM34,91H28v7h2l4-5V91Zm11,1H42v2h3V92Z"/>
+  <path class="cls-2" d="M62,50V31H86l4,3h15l8,7-8,6H90l-4,3H62Z"/>
+  <path id="Rectangle_10_copy" data-name="Rectangle 10 copy" class="cls-2" d="M35,31v4c-3.866,0-7,2.462-7,5.5S31.134,46,35,46v4c-9.6,0-10-4-10-4s-4.043,4-12,4V46s8-.761,8-5V40.443C21,36,13,35.2,13,35.2V31c7.957,0,12,4.2,12,4.2S25.4,31,35,31Zm0,0v4c3.866,0,7,2.462,7,5.5S38.866,46,35,46v4c9.6,0,10-4,10-4s4.043,4,12,4V46s-8-.761-8-5V40.443C49,36,57,35.2,57,35.2V31c-7.957,0-12,4.2-12,4.2S44.6,31,35,31Z"/>
+</svg>
