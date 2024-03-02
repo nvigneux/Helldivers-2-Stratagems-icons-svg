@@ -1,0 +1,21 @@
+<svg id="HD2-MGS" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #679552;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="Shape_6_copy_2" data-name="Shape 6 copy 2" class="cls-1" d="M90,33s-6.007-8.3-18-15h43V33H90Zm2,24V71H31V68.086C32.276,68.092,38,68,38,68l1-1,7-1,1-1h3l3-4V60l-3.127-3.913L47,56l-1-1-7-1H33.916L34,53h5l7-1,1-1h3l3-4V46l-3-4H47l-1-1-6-1H34l12-1,1-1h3l3-4V33l-3-4H47l-1-1L36,27H31V18H53S92,17.968,92,57ZM85,76V92H41V76H85Zm8,20,13,16H18L31,96H93Z"/>
+  <path class="cls-2" d="M9,57v7H35l1-1h8l1-1h3l1-1.52L48,59H45l-1-1H36l-1-1H9Z"/>
+  <path id="Shape_5_copy" data-name="Shape 5 copy" class="cls-2" d="M9,43v7H35l1-1h8l1-1h3l1-1.52L48,45H45l-1-1H36l-1-1H9Z"/>
+  <path id="Shape_5_copy_2" data-name="Shape 5 copy 2" class="cls-2" d="M9,30v7H35l1-1h8l1-1h3l1-1.52L48,32H45l-1-1H36l-1-1H9Z"/>
+</svg>
