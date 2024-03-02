@@ -1,0 +1,23 @@
+<svg id="HD2-AS" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #679552;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="HD2-AS-2" data-name="HD2-AS">
+    <path id="Shape_8_copy_2" data-name="Shape 8 copy 2" class="cls-1" d="M90,33s-6.007-8.3-18-15h43V33H90Zm2,24V71H51.533a9.01,9.01,0,0,0-6.057-6.1c3.145-1.186,6.475-3.652,6.475-8.829a9.025,9.025,0,0,0-6.456-9.178c3.14-1.189,6.456-3.655,6.456-8.822C51.951,27.466,40,28,40,28H31V18H53S92,17.968,92,57ZM51.766,76H85V92H41V83.933C43.615,83.675,50.581,82.382,51.766,76ZM93,96l13,16H18L31,96H93Z"/>
+    <path class="cls-2" d="M9,67H30L16,81H9V67Zm26,0L22,81H42s7-1.3,7-7-6-7-6-7H35Z"/>
+    <path id="Shape_7_copy" data-name="Shape 7 copy" class="cls-2" d="M9,49H30L16,63H9V49Zm26,0L22,63H42s7-1.3,7-7-6-7-6-7H35Z"/>
+    <path id="Shape_7_copy_2" data-name="Shape 7 copy 2" class="cls-2" d="M9,31H30L16,45H9V31Zm26,0L22,45H42s7-1.3,7-7-6-7-6-7H35Z"/>
+  </g>
+</svg>

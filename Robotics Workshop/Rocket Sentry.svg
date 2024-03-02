@@ -1,0 +1,21 @@
+<svg id="HD2-RS" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #679552;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M90,33s-6.007-8.3-18-15h43V33H90Zm2,24V71H50.6L50,65,67,48V28H47L31,43.111V18H53S92,17.968,92,57ZM85,92H41V85l9-9H85V92Zm8,4,13,16H18L31,96H93Z"/>
+  <path class="cls-2" d="M63,32V46L46,63V73L34,85V61H10L22,49H32L49,32H63Z"/>
+  <path class="cls-2" d="M20,86V77l6-6V81Z"/>
+  <path class="cls-2" d="M24,69l-6,5H9l5-5H24Z"/>
+</svg>

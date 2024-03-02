@@ -1,0 +1,27 @@
+<svg id="HD2-GS" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #679552;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="HD2-GS-2" data-name="HD2-GS">
+    <path id="Shape_12_copy_4" data-name="Shape 12 copy 4" class="cls-1" d="M90,33s-6.007-8.3-18-15h43V33H90Zm2,24V71H51.5L51,70l-1-1H46l-1-1H36V66h9l1-1h4l1-1,1-2,1-1V60l-1-1-1-2-1-1H46l-1-1H36V52h9l1-1h4l1-1,1-2,1-1V46l-1-1-1-2-1-1H46l-1-1H36V39h9l1-1h4l1-1,1-2,1-1V33l-1-1-1-2-1-1H46l-1-1H36V27H31V18H53S92,17.968,92,57ZM52,85l-1-2-1-1H46l-1-1H41V79h4l1-1h4l1-1,0.5-1H85V92H45l1-1h4l1-1,1-2,1-1V86ZM93,96l13,16H18L31,96H93Z"/>
+    <g>
+      <path class="cls-2" d="M9,90H35l1-1h8l1-1h3l1-1V86l-1-1H45l-1-1H36l-1-1H9v7Z"/>
+      <path id="Shape_11_copy" data-name="Shape 11 copy" class="cls-2" d="M9,77H35l1-1h8l1-1h3l1-1V73l-1-1H45l-1-1H36l-1-1H9v7Z"/>
+      <path id="Shape_11_copy_2" data-name="Shape 11 copy 2" class="cls-2" d="M9,64H35l1-1h8l1-1h3l1-1V60l-1-1H45l-1-1H36l-1-1H9v7Z"/>
+      <path id="Shape_11_copy_3" data-name="Shape 11 copy 3" class="cls-2" d="M9,50H35l1-1h8l1-1h3l1-1V46l-1-1H45l-1-1H36l-1-1H9v7Z"/>
+      <path id="Shape_11_copy_4" data-name="Shape 11 copy 4" class="cls-2" d="M9,37H35l1-1h8l1-1h3l1-1V33l-1-1H45l-1-1H36l-1-1H9v7Z"/>
+    </g>
+  </g>
+</svg>
