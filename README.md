@@ -1,5 +1,13 @@
 # Helldivers 2 - Stratagems icons svg
 
+## Stratagem Hero Trainer - [https://stratagem-hero-trainer.vercel.app/](https://stratagem-hero-trainer.vercel.app/)
+
+These SVG icons are tailored for the [Stratagem Hero Trainer](https://stratagem-hero-trainer.vercel.app/) project.
+
+Feel free to use them in your own projects !
+
+# Icons Catalog
+
 ## Patriotic Administration Center
 
 | Icon             | Name                                                                |
