@@ -1,0 +1,19 @@
+<svg id="Prospecting_Drill" data-name="Prospecting Drill" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c9b269;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M4,122V102l20,20H4Zm118,0V102l-20,20h20ZM122,4V24L102,4h20ZM4,4V24L24,4H4Z"/>
+  <path id="Rectangle_1_copy_7" data-name="Rectangle 1 copy 7" class="cls-2" d="M36.02,50.815C36.106,50.319,36.564,49,39,49H59V14a1.874,1.874,0,0,1,1.8-2H65.2A1.874,1.874,0,0,1,67,14V49H87c3,0,3,2,3,2v3L85.664,64.117Zm33.5,50.976L54.79,97.844,50.017,86.706l23.291,6.241ZM63,117l-6.2-14.477,11.131,2.982ZM48.012,82.028L43.239,70.89l35.452,9.5L74.9,89.233ZM36.46,55.074L84.072,67.832l-3.79,8.843L41.234,66.212Z"/>
+</svg>
