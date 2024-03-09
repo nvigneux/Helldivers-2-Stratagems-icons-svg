@@ -97,6 +97,7 @@ Feel free to use them in your own projects !
         </tr>
     </tbody>
 </table>
+
 ## Bridge
 
 <table style="min-width:300px">
