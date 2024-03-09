@@ -1,0 +1,23 @@
+<svg id="Patriot_Exosuit" data-name="Patriot Exosuit" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #49adc9;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M78,32h8l-8,7V32"/>
+  <path id="Shape_14_copy_2" data-name="Shape 14 copy 2" class="cls-1" d="M78,19h8l-8-7v7"/>
+  <path class="cls-1" d="M114,30H78V21h36s5,0.488,5,4v1C119,29.513,114,30,114,30Z"/>
+  <path id="Shape_17_copy" data-name="Shape 17 copy" class="cls-2" d="M81,103v4l6,6,1,1H65l1-1,6-6V99l6-7V78h9V96ZM74,87l-6,7H58l-6-7V74H39V58l4-4h8l5-4H70l5,4h8l4,4V74H74V87ZM70,58H56V70H70V58ZM48,92l6,7v8l6,6,1,1H38l1-1,6-6v-4l-6-7V78h9V92Z"/>
+  <path id="Shape_39_copy_2" data-name="Shape 39 copy 2" class="cls-1" d="M8,37H34l2-2h7l6-3-6-3H36l-2-2H8V37Z"/>
+  <path id="Shape_39_copy_4" data-name="Shape 39 copy 4" class="cls-1" d="M8,23H34l2-2h7l6-3-6-3H36l-2-2H8V23Z"/>
+</svg>
