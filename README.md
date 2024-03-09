@@ -10,7 +10,7 @@ Feel free to use them in your own projects !
 
 ## Patriotic Administration Center
 
-<table>
+<table style="min-width:300px">
     <thead>
         <tr>
             <th>Icon</th>
@@ -59,7 +59,7 @@ Feel free to use them in your own projects !
 
 ## Orbital Cannons
 
-<table>
+<table style="min-width:300px">
     <thead>
         <tr>
             <th>Icon</th>
@@ -99,7 +99,7 @@ Feel free to use them in your own projects !
 </table>
 ## Bridge
 
-<table>
+<table style="min-width:300px">
 <thead>
 <tr>
 <th>Icon</th>
@@ -140,7 +140,7 @@ Feel free to use them in your own projects !
 
 ## Hanger
 
-<table>
+<table style="min-width:300px">
 <thead>
 <tr>
 <th>Icon</th>
@@ -189,7 +189,7 @@ Feel free to use them in your own projects !
 
 ## Engineering Bay
 
-<table>
+<table style="min-width:300px">
 <thead>
 <tr>
 <th>Icon</th>
@@ -238,7 +238,7 @@ Feel free to use them in your own projects !
 
 ## Robotics Workshop
 
-<table>
+<table style="min-width:300px">
 <thead>
 <tr>
 <th>Icon</th>
@@ -274,6 +274,10 @@ Feel free to use them in your own projects !
 <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Robotics%20Workshop/EMS%20Mortar%20Sentry.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Robotics%20Workshop/EMS%20Mortar%20Sentry.svg" alt="EMS Mortar Sentry" style="max-width: 100%;"></a></td>
 <td>EMS Mortar Sentry</td>
 </tr>
+<tr>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Robotics%20Workshop/Patriot%20Exosuit.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Robotics%20Workshop/Patriot%20Exosuit.svg" alt="EMS Mortar Sentry" style="max-width: 100%;"></a></td>
+<td>Patriot Exosuit</td>
+</tr>
 </tbody>
 </table>
 
@@ -282,7 +286,7 @@ Feel free to use them in your own projects !
 
 ## General Stratagems
 
-<table>
+<table style="min-width:300px">
 <thead>
 <tr>
 <th>Icon</th>
@@ -321,10 +325,6 @@ Feel free to use them in your own projects !
 <tr>
 <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/SEAF%20Artillery.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Seismic%20Probe.svg" alt="Seismic Probe" style="max-width: 100%;"></a></td>
 <td>Seismic Probe</td>
-</tr>
-<tr>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/SEAF%20Artillery.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Prospecting%20Drill.svg" alt="Prospecting Drill" style="max-width: 100%;"></a></td>
-<td>Prospecting Drill</td>
 </tr>
 <tr>
 <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/SEAF%20Artillery.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Prospecting%20Drill.svg" alt="Prospecting Drill" style="max-width: 100%;"></a></td>
