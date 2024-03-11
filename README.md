@@ -320,19 +320,19 @@ Feel free to use them in your own projects !
 <td>SEAF Artillery</td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/SEAF%20Artillery.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Super%20Earth%20Flag.svg" alt="Super Earth Flag" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Super%20Earth%20Flag.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Super%20Earth%20Flag.svg" alt="Super Earth Flag" style="max-width: 100%;"></a></td>
 <td>Super Earth Flag</td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/SEAF%20Artillery.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Seismic%20Probe.svg" alt="Seismic Probe" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Seismic%20Probe.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Seismic%20Probe.svg" alt="Seismic Probe" style="max-width: 100%;"></a></td>
 <td>Seismic Probe</td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/SEAF%20Artillery.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Prospecting%20Drill.svg" alt="Prospecting Drill" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Prospecting%20Drill.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Prospecting%20Drill.svg" alt="Prospecting Drill" style="max-width: 100%;"></a></td>
 <td>Prospecting Drill</td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/SEAF%20Artillery.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Orbital%20Illumination%20Flare.svg" alt="Orbital Illumination Flare" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Orbital%20Illumination%20Flare.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Orbital%20Illumination%20Flare.svg" alt="Orbital Illumination Flare" style="max-width: 100%;"></a></td>
 <td>Orbital Illumination Flare</td>
 </tr>
 </tbody>
