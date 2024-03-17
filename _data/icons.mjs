@@ -79,4 +79,58 @@ export const ICON_LIST = [
 		group_id: 'bridge',
 		filename: 'Tesla Tower',
 	},
+	{
+		id: 'anti-personnel_minefield',
+		label: 'Anti-Personnel Minefield',
+		group_id: 'engineering_bay',
+		filename: 'Anti-Personnel Minefield',
+	},
+	{
+		id: 'arc_thrower',
+		label: 'Arc Thrower',
+		group_id: 'engineering_bay',
+		filename: 'Arc Thrower',
+	},
+	{
+		id: 'ballistic_shield_backpack',
+		label: 'Ballistic Shield Backpack',
+		group_id: 'engineering_bay',
+		filename: 'Ballistic Shield Backpack',
+	},
+	{
+		id: 'grenade_launcher',
+		label: 'Grenade Launcher',
+		group_id: 'engineering_bay',
+		filename: 'Grenade Launcher',
+	},
+	{
+		id: 'guard_dog_rover',
+		label: 'Guard Dog Rover',
+		group_id: 'engineering_bay',
+		filename: 'Guard Dog Rover',
+	},
+	{
+		id: 'incendiary_mines',
+		label: 'Incendiary Mines',
+		group_id: 'engineering_bay',
+		filename: 'Incendiary Mines',
+	},
+	{
+		id: 'laser_cannon',
+		label: 'Laser Cannon',
+		group_id: 'engineering_bay',
+		filename: 'Laser Cannon',
+	},
+	{
+		id: 'shield_generator_pack',
+		label: 'Shield Generator Pack',
+		group_id: 'engineering_bay',
+		filename: 'Shield Generator Pack',
+	},
+	{
+		id: 'supply_pack',
+		label: 'Supply Pack',
+		group_id: 'engineering_bay',
+		filename: 'Supply Pack',
+	},
 ]
