@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 126" fill="#fff">
-<path fill="#49adc9" d="m80 81 3 3h30l2 2h3v1h3v1h-3l-1 1v1h2v1h-4l-3 5h-3v-1h-2v1H94v-1h-2v1h-2v-1l-2-1-3 3h-8v-6H65v6h-8l-3 3h-7s-3.9 5.6-3 8c1 2.8-2 3-2 3l-5-3s-.8-2.8 0-4c.7-1.1 6-6 6-6v-4h-7l-1-1h-8l-4 4H10l-2 2H6l-1-1V83l1-1h30l7-1v-1h4v1h2v-1h2v1h1v-1h6v1h3v-1h1v1h2v-1h1v1h15ZM49 94h6v2l-2 2h-4v-4Z"/>
+<path fill-rule="evenodd" fill="#49adc9" d="m80 81 3 3h30l2 2h3v1h3v1h-3l-1 1v1h2v1h-4l-3 5h-3v-1h-2v1H94v-1h-2v1h-2v-1l-2-1-3 3h-8v-6H65v6h-8l-3 3h-7s-3.9 5.6-3 8c1 2.8-2 3-2 3l-5-3s-.8-2.8 0-4c.7-1.1 6-6 6-6v-4h-7l-1-1h-8l-4 4H10l-2 2H6l-1-1V83l1-1h30l7-1v-1h4v1h2v-1h2v1h1v-1h6v1h3v-1h1v1h2v-1h1v1h15ZM49 94h6v2l-2 2h-4v-4Z"/>
 <path d="M45 62h26l2-2h8l5-2.5-5-2.5h-8l-2-2H45v9Z"/>
 <path d="M45 48h26l2-2h8l5-2.5-5-2.5h-8l-2-2H45v9Z"/>
 <path d="M45 34h26l2-2h8l5-2.5-5-2.5h-8l-2-2H45v9Z"/>

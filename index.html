@@ -5,10 +5,14 @@
 <title>Helldivers 2 Stratagem Icons</title>
 <style>
 	html {
-		background-color: black;
+		background-color: slategray;
 		color: white;
 		font-size: 100%;
 		font-family: Arial, Helvetica, sans-serif;
+	}
+
+	img {
+		max-block-size: 100%;
 	}
 
 	body {
@@ -21,6 +25,7 @@
 
 	section > ul {
 		list-style-type: '';
+		padding-inline-start: 0;
 	}
 
 	section li {
@@ -30,13 +35,20 @@
 		align-items: center;
 	}
 
+	section li + li {
+		margin-block-start: 1rem;
+	}
+
 	section img {
-		block-size: 126px;
-		inline-size: 126px;
 		background-color: black;
-		border: 2px solid black;
 	}
 </style>
+<main>
+	<header>
+		<h1>List of icons</h1>
+	</header>
+	<p>To make it easier to compare the changes, each row has the new image, followed by the current <code>master</code> image.</p>
+</main>
 <script type="module">
 	import { GROUP_LIST, ICON_LIST } from './_data/icons.mjs';
 
@@ -50,8 +62,8 @@
 			.forEach(iconItem => {
 				sectionIconList += `
 					<li>
-						<img src="./${groupItem.foldername}/${iconItem.filename}.svg" alt="${iconItem.label}">
-						<img src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/${groupItem.foldername}/${iconItem.filename}.svg" alt="${iconItem.label}">
+						<img width="126" height="126" src="./${groupItem.foldername}/${iconItem.filename}.svg" alt="${iconItem.label}">
+						<img width="126" height="126" src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/${groupItem.foldername}/${iconItem.filename}.svg" alt="${iconItem.label}">
 					</li>
 				`;
 			});
@@ -66,6 +78,6 @@
 				</ul>
 			</section>
 		`;
-		document.body.innerHTML += section;
+		document.querySelector('main').innerHTML += section;
 	});
 </script>
