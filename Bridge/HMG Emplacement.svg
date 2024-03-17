@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 126" fill="#fff">
   <defs>
-    <path id="machine-gun-round" d="M39 28v12h27.3l1-1.7h9l1.2-1.7h3.4L83 34l-2.1-2.6h-3.4l-1.1-1.7h-9L66.2 28H39Z"/>  
+    <path id="mgr" d="M39 28v12h27.3l1-1.7h9l1.2-1.7h3.4L83 34l-2.1-2.6h-3.4l-1.1-1.7h-9L66.2 28H39Z"/>  
   </defs>
-  <path id="turret" fill="#679552" d="M99.9 31a54.2 54.2 0 0 0-15.3-15H121v15H99.9Zm1.7 24v14H50v-6h18l2-2 8-1 6-4 3-4-3-4-5-4v-2l5-4 3-4-3-4-6-4-8-1-2-2H50v-7h18.6s33 0 33 39Zm-6 19v16H58.4V74h37.2Zm6.8 20 11 16H39l11-16h52.4Z"/>
-  <use href="#machine-gun-round" />
-  <use href="#machine-gun-round" transform="translate(0 18)"/>
+  <path fill="#679552" d="M99.9 31a54.2 54.2 0 0 0-15.3-15H121v15H99.9Zm1.7 24v14H50v-6h18l2-2 8-1 6-4 3-4-3-4-5-4v-2l5-4 3-4-3-4-6-4-8-1-2-2H50v-7h18.6s33 0 33 39Zm-6 19v16H58.4V74h37.2Zm6.8 20 11 16H39l11-16h52.4Z"/>
+  <use href="#mgr"/>
+  <use href="#mgr" transform="translate(0 18)"/>
   <circle cx="18" cy="24" r="9"/>
   <path d="M5 34v40h5v37h16V74h5V34H5Z"/>
 </svg>
