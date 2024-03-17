@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Helldivers 2 Stratagem Icons</title>
+<style>
+	html {
+		background-color: black;
+		color: white;
+		font-size: 100%;
+		font-family: Arial, Helvetica, sans-serif;
+	}
+
+	body {
+		margin: 2rem;
+	}
+
+	section + section {
+		margin-block-start: 2rem;
+	}
+
+	section > ul {
+		list-style-type: '';
+	}
+</style>
+<script type="module">
+	import { GROUP_LIST, ICON_LIST } from './_data/icons.mjs';
+
+	GROUP_LIST.forEach(groupItem => {
+		let sectionIconList = '';
+
+		ICON_LIST
+			.filter(item => {
+				return item.group_id === groupItem.id;
+			})
+			.forEach(iconItem => {
+				sectionIconList += `
+					<li>
+						<img src="./${groupItem.foldername}/${iconItem.filename}.svg" alt="${iconItem.label}">
+					</li>
+				`;
+			});
+
+		let section = `
+			<section id="section_${groupItem.id}" aria-labelledby="section_heading_${groupItem.id}">
+				<header>
+					<h2 id="section_heading_${groupItem.id}">${groupItem.label}</h2>
+				</header>
+				<ul>
+					${ sectionIconList }
+				</ul>
+			</section>
+		`;
+		document.body.innerHTML += section;
+	});
+</script>
