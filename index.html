@@ -22,6 +22,20 @@
 	section > ul {
 		list-style-type: '';
 	}
+
+	section li {
+		display: flex;
+		flex-direction: row;
+		gap: 1rem;
+		align-items: center;
+	}
+
+	section img {
+		block-size: 126px;
+		inline-size: 126px;
+		background-color: black;
+		border: 2px solid black;
+	}
 </style>
 <script type="module">
 	import { GROUP_LIST, ICON_LIST } from './_data/icons.mjs';
@@ -37,6 +51,7 @@
 				sectionIconList += `
 					<li>
 						<img src="./${groupItem.foldername}/${iconItem.filename}.svg" alt="${iconItem.label}">
+						<img src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/${groupItem.foldername}/${iconItem.filename}.svg" alt="${iconItem.label}">
 					</li>
 				`;
 			});
