@@ -1,29 +1,13 @@
-<svg id="HD2-EGB" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #de7b6c;
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <g>
-    <path class="cls-1" d="M98.924,120c-0.329-11.02-2-19.88-4.454-27h15.288A53.738,53.738,0,0,1,117,120H98.924ZM79,70.295V68.458A54.024,54.024,0,0,1,107.9,90H93.357C89.438,80.248,84.039,74.124,79,70.295ZM57,90H36.681A42.05,42.05,0,0,1,48,74.1V84h9v6ZM33.635,90H18.1A54.008,54.008,0,0,1,48,68.157v2.137C42.958,74.118,37.556,80.23,33.635,90Zm-5.559,30H9a53.732,53.732,0,0,1,7.242-27H32.523C30.077,100.12,28.4,108.98,28.076,120ZM63,174a53.726,53.726,0,0,1-32.644-11H95.644A53.726,53.726,0,0,1,63,174Zm33.089-54H65V93H91.509A85.481,85.481,0,0,1,96.089,120ZM35.5,93H62v27H30.912A85.548,85.548,0,0,1,35.5,93Zm54.828-3H70V84h9V74.089A42.031,42.031,0,0,1,90.327,90Z"/>
-    <g>
-      <rect class="cls-2" x="53" y="24" width="3" height="15"/>
-      <rect id="Rectangle_1_copy" data-name="Rectangle 1 copy" class="cls-2" x="53" y="44" width="3" height="15"/>
-      <rect id="Rectangle_1_copy_2" data-name="Rectangle 1 copy 2" class="cls-2" x="53" y="64" width="3" height="15"/>
-      <rect id="Rectangle_1_copy_3" data-name="Rectangle 1 copy 3" class="cls-2" x="62" y="15" width="3" height="13"/>
-      <rect id="Rectangle_1_copy_4" data-name="Rectangle 1 copy 4" class="cls-2" x="62" y="31" width="3" height="15"/>
-      <rect id="Rectangle_1_copy_5" data-name="Rectangle 1 copy 5" class="cls-2" x="62" y="51" width="3" height="16"/>
-      <rect id="Rectangle_1_copy_9" data-name="Rectangle 1 copy 9" class="cls-2" x="62" y="71" width="3" height="16"/>
-      <rect id="Rectangle_1_copy_6" data-name="Rectangle 1 copy 6" class="cls-2" x="71" y="24" width="3" height="15"/>
-      <rect id="Rectangle_1_copy_7" data-name="Rectangle 1 copy 7" class="cls-2" x="71" y="44" width="3" height="15"/>
-      <rect id="Rectangle_1_copy_8" data-name="Rectangle 1 copy 8" class="cls-2" x="71" y="64" width="3" height="15"/>
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 126" fill="#fff">
+<path fill="#de7b6c" d="M99 120a91 91 0 0 0-4.5-27h15.3a53.7 53.7 0 0 1 7.2 27H99ZM79 70.3v-1.8A54 54 0 0 1 107.9 90H93.4c-4-9.8-9.4-15.9-14.4-19.7ZM57 90H36.7A42 42 0 0 1 48 74.1V84h9v6Zm-23.4 0H18.1A54 54 0 0 1 48 68.2v2A45 45 0 0 0 33.6 90Zm-5.5 30H9a53.7 53.7 0 0 1 7.2-27h16.3c-2.4 7.1-4.1 16-4.4 27ZM63 174a53.7 53.7 0 0 1-32.6-11h65.2A53.7 53.7 0 0 1 63 174Zm33-54H65V93h26.5a85.5 85.5 0 0 1 4.6 27ZM35.6 93H62v27H31a85.5 85.5 0 0 1 4.5-27Zm54.8-3H70v-6h9V74a42 42 0 0 1 11.3 16Z"/>
+<path d="M53 24h3v15h-3z"/>
+<path d="M53 44h3v15h-3z"/>
+<path d="M53 64h3v15h-3z"/>
+<path d="M62 15h3v13h-3z"/>
+<path d="M62 31h3v15h-3z"/>
+<path d="M62 51h3v16h-3z"/>
+<path d="M62 71h3v16h-3z"/>
+<path d="M71 24h3v15h-3z"/>
+<path d="M71 44h3v15h-3z"/>
+<path d="M71 64h3v15h-3z"/>
 </svg>
