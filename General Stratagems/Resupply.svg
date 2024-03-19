@@ -1,24 +1,5 @@
-<svg id="Resupply" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #c9b269;
-      }
-
-      .cls-1, .cls-2 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <g>
-    <path class="cls-1" d="M82,52V24h30L96.372,52H82ZM31.628,52L16,24H46V52H31.628ZM76.279,88L64,110,51.721,88H76.279Z"/>
-    <path class="cls-2" d="M34,84V56h9V66H53V56h9V84H34Z"/>
-    <path class="cls-2" d="M66,84V56h9V66H85V56h9V84H66Z"/>
-    <path class="cls-2" d="M50,52V24h9V34H69V24h9V52H50Z"/>
-    <path class="cls-1" d="M5,123V103l20,20H5Zm118,0V103l-20,20h20ZM123,5V25L103,5h20ZM5,5V25L25,5H5Z"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 126" fill="#fff">
+<path fill="#c9b269" d="M82 52V24h30L96.4 52H82Zm-50.4 0L16 24h30v28H31.6Zm44.7 36L64 110 51.7 88h24.6Z"/>
+<path d="M34 84V56h9v10h10V56h9v28H34ZM66 84V56h9v10h10V56h9v28H66ZM50 52V24h9v10h10V24h9v28H50Z"/>
+<path fill="#c9b269" d="M5 123v-20l20 20H5Zm118 0v-20l-20 20h20Zm0-118v20L103 5h20ZM5 5v20L25 5H5Z"/>
 </svg>

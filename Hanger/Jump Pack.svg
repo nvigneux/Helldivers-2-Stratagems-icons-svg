@@ -1,26 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 126 126">
-  <defs>
-    <style>
-      .cls-1 {
-        fill: #49adc9;
-      }
-
-      .cls-1, .cls-2 {
-        fill-rule: evenodd;
-      }
-
-      .cls-2, .cls-3 {
-        fill: #fff;
-      }
-    </style>
-  </defs>
-  <path class="cls-1" d="M31,83V59L18,83H31Z"/>
-  <path class="cls-2" d="M35,87l2,25h5V87H35Z"/>
-  <path class="cls-2" d="M45,87v25h5l2-25H45Z"/>
-  <path class="cls-2" d="M76,87l2,25h5V87H76Z"/>
-  <path class="cls-2" d="M86,87v25h5l2-25H86Z"/>
-  <path class="cls-2" d="M35,83V33H52V83H35Z"/>
-  <rect class="cls-3" x="76" y="33" width="17" height="50"/>
-  <path class="cls-1" d="M97,83h13L97,59V83Z"/>
-  <path class="cls-1" d="M56,83V29H35V16H93V29H72V83H56Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 126" fill="#fff">
+<path fill="#49adc9" d="M31 83V59L18 83h13Z"/>
+<path d="m35 87 2 25h5V87h-7ZM45 87v25h5l2-25h-7ZM76 87l2 25h5V87h-7ZM86 87v25h5l2-25h-7ZM35 83V33h17v50H35Z"/>
+<path d="M76 33h17v50H76z"/>
+<path fill="#49adc9" d="M97 83h13L97 59v24ZM56 83V29H35V16h58v13H72v54H56Z"/>
 </svg>
