@@ -139,7 +139,7 @@ Feel free to use them in your own projects !
 </tbody>
 </table>
 
-## Hanger
+## Hangar
 
 <table style="min-width:300px">
 <thead>
@@ -150,39 +150,39 @@ Feel free to use them in your own projects !
 </thead>
 <tbody>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hanger/Eagle%20Strafing%20Run.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hanger/Eagle%20Strafing%20Run.svg" alt="Eagle Strafing Run" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hangar/Eagle%20Strafing%20Run.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hangar/Eagle%20Strafing%20Run.svg" alt="Eagle Strafing Run" style="max-width: 100%;"></a></td>
 <td>Eagle Strafing Run</td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hanger/Eagle%20Airstrike.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hanger/Eagle%20Airstrike.svg" alt="Eagle Airstrike" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hangar/Eagle%20Airstrike.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hangar/Eagle%20Airstrike.svg" alt="Eagle Airstrike" style="max-width: 100%;"></a></td>
 <td>Eagle Airstrike</td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hanger/Eagle%20Cluster%20Bomb.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hanger/Eagle%20Cluster%20Bomb.svg" alt="Eagle Cluster Bomb" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hangar/Eagle%20Cluster%20Bomb.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hangar/Eagle%20Cluster%20Bomb.svg" alt="Eagle Cluster Bomb" style="max-width: 100%;"></a></td>
 <td>Eagle Cluster Bomb</td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hanger/Eagle%20Napalm%20Airstrike.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hanger/Eagle%20Napalm%20Airstrike.svg" alt="Eagle Napalm Airstrike" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hangar/Eagle%20Napalm%20Airstrike.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hangar/Eagle%20Napalm%20Airstrike.svg" alt="Eagle Napalm Airstrike" style="max-width: 100%;"></a></td>
 <td>Eagle Napalm Airstrike</td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hanger/Jump%20Pack.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hanger/Jump%20Pack.svg" alt="Jump Pack" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hangar/Jump%20Pack.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hangar/Jump%20Pack.svg" alt="Jump Pack" style="max-width: 100%;"></a></td>
 <td>Jump Pack</td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hanger/Eagle%20Smoke%20Strike.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hanger/Eagle%20Smoke%20Strike.svg" alt="Eagle Smoke Strike" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hangar/Eagle%20Smoke%20Strike.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hangar/Eagle%20Smoke%20Strike.svg" alt="Eagle Smoke Strike" style="max-width: 100%;"></a></td>
 <td>Eagle Smoke Strike</td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hanger/Eagle%20110MM%20Rocket%20Pods.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hanger/Eagle%20110MM%20Rocket%20Pods.svg" alt="Eagle 110MM Rocket Pods" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hangar/Eagle%20110MM%20Rocket%20Pods.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hangar/Eagle%20110MM%20Rocket%20Pods.svg" alt="Eagle 110MM Rocket Pods" style="max-width: 100%;"></a></td>
 <td>Eagle 110MM Rocket Pods</td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hanger/Eagle%20500KG%20Bomb.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hanger/Eagle%20500KG%20Bomb.svg" alt="Eagle 500KG Bomb" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hangar/Eagle%20500KG%20Bomb.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hangar/Eagle%20500KG%20Bomb.svg" alt="Eagle 500KG Bomb" style="max-width: 100%;"></a></td>
 <td>Eagle 500KG Bomb</td>
 </tr>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hanger/Eagle%20500KG%20Bomb.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hanger/Eagle%20Rearm.svg" alt="Eagle Rearm" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hangar/Eagle%20500KG%20Bomb.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hangar/Eagle%20Rearm.svg" alt="Eagle Rearm" style="max-width: 100%;"></a></td>
 <td>Eagle Rearm</td>
 </tr>
 </tbody>
