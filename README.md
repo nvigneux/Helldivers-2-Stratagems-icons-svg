@@ -47,6 +47,10 @@ Feel free to use them in your own projects !
             <td>Autocannon</td>
         </tr>
         <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Patriotic%20Administration%20Center/Heavy%20Machine%20Gun.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Patriotic%20Administration%20Center/Heavy%20Machine%20Gun.svg" alt="Heavy Machine Gun" style="max-width: 100%;"></a></td>
+            <td>Heavy Machine Gun</td>
+        </tr>
+        <tr>
             <td><a href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Patriotic%20Administration%20Center/Railgun.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Patriotic%20Administration%20Center/Railgun.svg" alt="Railgun" style="max-width: 100%;"></a></td>
             <td>Railgun</td>
         </tr>
@@ -229,6 +233,10 @@ Feel free to use them in your own projects !
         <tr>
             <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Engineering%20Bay/Arc%20Thrower.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Engineering%20Bay/Arc%20Thrower.svg" alt="Arc Thrower" style="max-width: 100%;"></a></td>
             <td>Arc Thrower</td>
+        </tr>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Engineering%20Bay/Quasar%20Cannon.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Engineering%20Bay/Quasar%20Cannon.svg" alt="Quasar Cannon" style="max-width: 100%;"></a></td>
+            <td>Quasar Cannon</td>
         </tr>
         <tr>
             <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Engineering%20Bay/Shield%20Generator%20Pack.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Engineering%20Bay/Shield%20Generator%20Pack.svg" alt="Shield Generator Pack" style="max-width: 100%;"></a></td>
