@@ -186,7 +186,7 @@ Feel free to use them in your own projects !
             <td>Eagle 500KG Bomb</td>
         </tr>
         <tr>
-            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hangar/Eagle%20500KG%20Bomb.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hangar/Eagle%20Rearm.svg" alt="Eagle Rearm" style="max-width: 100%;"></a></td>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hangar/Eagle%20Rearm.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hangar/Eagle%20Rearm.svg" alt="Eagle Rearm" style="max-width: 100%;"></a></td>
             <td>Eagle Rearm</td>
         </tr>
     </tbody>
