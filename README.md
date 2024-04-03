@@ -6,6 +6,9 @@ These SVG icons are tailored for the [Stratagem Hero Trainer](https://stratagem-
 
 Feel free to use them in your own projects !
 
+## Download all icons
+[Helldivers-2-Stratagems-icons-svg.zip](https://github.com/nvigneux/Helldivers-2-Stratagems-icons-svg/archive/refs/heads/master.zip) 
+
 # Icons Catalog
 
 ## Patriotic Administration Center
