@@ -61,6 +61,10 @@ Feel free to use them in your own projects !
             <td><a href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Patriotic%20Administration%20Center/Spear.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Patriotic%20Administration%20Center/Spear.svg" alt="Spear" style="max-width: 100%;"></a></td>
             <td>Spear</td>
         </tr>
+        <tr>
+            <td><a href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Patriotic%20Administration%20Center/Airburst%20Rocket%20Launcher.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Patriotic%20Administration%20Center/Airburst%20Rocket%20Launcher.svg" alt="Airburst Rocket Launcher" style="max-width: 100%;"></a></td>
+            <td>Airburst Rocket Launcher</td>
+        </tr>
     </tbody>
 </table>
 
@@ -244,6 +248,10 @@ Feel free to use them in your own projects !
         <tr>
             <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Engineering%20Bay/Shield%20Generator%20Pack.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Engineering%20Bay/Shield%20Generator%20Pack.svg" alt="Shield Generator Pack" style="max-width: 100%;"></a></td>
             <td>Shield Generator Pack</td>
+        </tr>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Engineering%20Bay/Anti-Tank%20Mines.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Engineering%20Bay/Anti-Tank%Mines.svg" alt="Anti-Tank Mines" style="max-width: 100%;"></a></td>
+            <td>Anti-Tank Mines</td>
         </tr>
     </tbody>
 </table>
