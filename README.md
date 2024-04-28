@@ -250,7 +250,7 @@ Feel free to use them in your own projects !
             <td>Shield Generator Pack</td>
         </tr>
         <tr>
-            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Engineering%20Bay/Anti-Tank%20Mines.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Engineering%20Bay/Anti-Tank%Mines.svg" alt="Anti-Tank Mines" style="max-width: 100%;"></a></td>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Engineering%20Bay/Anti-Tank%20Mines.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Engineering%20Bay/Anti-Tank%20Mines.svg" alt="Anti-Tank Mines" style="max-width: 100%;"></a></td>
             <td>Anti-Tank Mines</td>
         </tr>
     </tbody>
