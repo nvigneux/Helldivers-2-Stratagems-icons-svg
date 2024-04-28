@@ -54,16 +54,16 @@ Feel free to use them in your own projects !
             <td>Heavy Machine Gun</td>
         </tr>
         <tr>
+            <td><a href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Patriotic%20Administration%20Center/Airburst%20Rocket%20Launcher.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Patriotic%20Administration%20Center/Airburst%20Rocket%20Launcher.svg" alt="Airburst Rocket Launcher" style="max-width: 100%;"></a></td>
+            <td>Airburst Rocket Launcher</td>
+        </tr>
+        <tr>
             <td><a href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Patriotic%20Administration%20Center/Railgun.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Patriotic%20Administration%20Center/Railgun.svg" alt="Railgun" style="max-width: 100%;"></a></td>
             <td>Railgun</td>
         </tr>
         <tr>
             <td><a href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Patriotic%20Administration%20Center/Spear.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Patriotic%20Administration%20Center/Spear.svg" alt="Spear" style="max-width: 100%;"></a></td>
             <td>Spear</td>
-        </tr>
-        <tr>
-            <td><a href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Patriotic%20Administration%20Center/Airburst%20Rocket%20Launcher.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Patriotic%20Administration%20Center/Airburst%20Rocket%20Launcher.svg" alt="Airburst Rocket Launcher" style="max-width: 100%;"></a></td>
-            <td>Airburst Rocket Launcher</td>
         </tr>
     </tbody>
 </table>
