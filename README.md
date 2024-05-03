@@ -356,3 +356,7 @@ Feel free to use them in your own projects !
         </tr>
     </tbody>
 </table>
+
+# Support me
+### If you find these resources helpful for your projects or simply enjoy the designs, consider supporting my efforts.
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/nvigneux?path=readme)
