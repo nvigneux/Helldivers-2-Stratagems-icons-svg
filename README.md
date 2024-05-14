@@ -143,10 +143,6 @@ Feel free to use them in your own projects !
             <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Bridge/Tesla%20Tower.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Bridge/Tesla%20Tower.svg" alt="Tesla Tower" style="max-width: 100%;"></a></td>
             <td>Tesla Tower</td>
         </tr>
-        <tr>
-            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Bridge/MS-220.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Bridge/MS-220.svg" alt="MS-220" style="max-width: 100%;"></a></td>
-            <td>MS-220</td>
-        </tr>
     </tbody>
 </table>
 
@@ -195,10 +191,6 @@ Feel free to use them in your own projects !
         <tr>
             <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hangar/Eagle%20Rearm.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hangar/Eagle%20Rearm.svg" alt="Eagle Rearm" style="max-width: 100%;"></a></td>
             <td>Eagle Rearm</td>
-        </tr>
-        <tr>
-            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hangar/Eagle%20Air%20To%20Air.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Hangar/Eagle%20Air%20To%20Air.svg" alt="Eagle Rearm" style="max-width: 100%;"></a></td>
-            <td>Eagle Air to Air</td>
         </tr>
     </tbody>
 </table>
@@ -297,10 +289,6 @@ Feel free to use them in your own projects !
         <tr>
             <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Robotics%20Workshop/Patriot%20Exosuit.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Robotics%20Workshop/Patriot%20Exosuit.svg" alt="Patriot Exosuit" style="max-width: 100%;"></a></td>
             <td>Patriot Exosuit</td>
-        </tr>
-        <tr>
-            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Robotics%20Workshop/Emancipator%20Exosuit.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Robotics%20Workshop/Emancipator%20Exosuit.svg" alt="Emancipator Exosuit" style="max-width: 100%;"></a></td>
-            <td>Emancipator Exosuit</td>
         </tr>
     </tbody>
 </table>
