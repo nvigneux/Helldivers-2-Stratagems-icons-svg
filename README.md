@@ -298,6 +298,10 @@ Feel free to use them in your own projects !
             <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Robotics%20Workshop/Patriot%20Exosuit.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Robotics%20Workshop/Patriot%20Exosuit.svg" alt="Patriot Exosuit" style="max-width: 100%;"></a></td>
             <td>Patriot Exosuit</td>
         </tr>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Robotics%20Workshop/Emancipator%20Exosuit.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Robotics%20Workshop/Emancipator%20Exosuit.svg" alt="Emancipator Exosuit" style="max-width: 100%;"></a></td>
+            <td>Emancipator Exosuit</td>
+        </tr>
     </tbody>
 </table>
 
