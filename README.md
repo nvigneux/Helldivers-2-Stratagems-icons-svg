@@ -358,6 +358,10 @@ Feel free to use them in your own projects !
             <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Orbital%20Illumination%20Flare.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Orbital%20Illumination%20Flare.svg" alt="Orbital Illumination Flare" style="max-width: 100%;"></a></td>
             <td>Orbital Illumination Flare</td>
         </tr>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Tectonic%20Drill.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Tectonic%20Drill.svg" alt="Tectonic Drill" style="max-width: 100%;"></a></td>
+            <td>Tectonic Drill</td>
+        </tr>
     </tbody>
 </table>
 
