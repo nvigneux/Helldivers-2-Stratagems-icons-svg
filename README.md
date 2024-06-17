@@ -366,6 +366,10 @@ Feel free to use them in your own projects !
             <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Dark%20Fluid%20Vessel.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Dark%20Fluid%20Vessel.svg" alt="Dark Fluid Vessel" style="max-width: 100%;"></a></td>
             <td>Dark Fluid Vessel</td>
         </tr>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Hive%20Breaker%20Drill.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Hive%20Breaker%20Drill.svg" alt="Hive Breaker Drill" style="max-width: 100%;"></a></td>
+            <td>Hive Breaker Drill</td>
+        </tr>
     </tbody>
 </table>
 
