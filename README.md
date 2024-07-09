@@ -58,6 +58,10 @@ Feel free to use them in your own projects !
             <td>Airburst Rocket Launcher</td>
         </tr>
         <tr>
+            <td><a href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Patriotic%20Administration%20Center/Commando.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Patriotic%20Administration%20Center/Commando.svg" alt="Commando" style="max-width: 100%;"></a></td>
+            <td>Commando</td>
+        </tr>
+        <tr>
             <td><a href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Patriotic%20Administration%20Center/Railgun.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Patriotic%20Administration%20Center/Railgun.svg" alt="Railgun" style="max-width: 100%;"></a></td>
             <td>Railgun</td>
         </tr>
