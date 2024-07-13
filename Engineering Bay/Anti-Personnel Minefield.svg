@@ -1,5 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 126" fill="#fff">
-	<path d="M29 93V82h68v11l-13 6-21-10-21 10Z"/>
-	<path d="M38 69h50v9H38zM58 60h10v5H58z"/>
-	<path fill="#679552" d="M121 121H5v-20l17-7 20 10 21-10 21 10 20-10 17 7.2V121Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 126" fill="#fff" xmlns:helldivers2="http://example.com/custom">
+  <path d="M29 93V82h68v11l-13 6-21-10-21 10Z"/>
+  <path d="M38 69h50v9H38zM58 60h10v5H58z"/>
+  <path fill="#679552" d="M121 121H5v-20l17-7 20 10 21-10 21 10 20-10 17 7.2V121Z"/>
+  <metadata>
+    <helldivers2:data>
+      <helldivers2:Name>Anti-Personnel Minefield</helldivers2:Name>
+      <helldivers2:Combination>⯆⯇⯅⯈</helldivers2:Combination>
+      <helldivers2:Description>Halts enemy advances with blankets of mines. Triggers when targets are nearby.</helldivers2:Description>
+      <helldivers2:Level>-1</helldivers2:Level>
+      <helldivers2:Category>Sentry</helldivers2:Category>
+    </helldivers2:data>
+  </metadata>
 </svg>

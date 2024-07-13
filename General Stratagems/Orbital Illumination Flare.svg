@@ -1,15 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 126" fill="#fff">
-<path fill="#c9b269" d="M4 122v-20l20 20H4Zm118 0v-20l-20 20h20Zm0-118v20L102 4h20ZM4 4v20L24 4H4Z"/>
-<circle cx="63" cy="63" r="12"/>
-<path d="m43.8 84.7-.7-.7-1.4-1.4-.7-.7 9.2-9.2.7.7 1.4 1.4.7.7Z"/>
-<path d="m85 82.2-.7.7-1.4 1.4-.7.7-9.2-9.2.7-.7 1.4-1.4.7-.7Z"/>
-<path d="m43.8 41.3-.7.7-1.4 1.4-.7.7 9.2 9.2.7-.7 1.4-1.4.7-.7Z"/>
-<path d="m85 43.8-.7-.7-1.4-1.4-.7-.7-9.2 9.2.7.7 1.4 1.4.7.7Z"/>
-<path d="M15 65v-4h32v4H15Z"/>
-<path d="M79 61h32v3H79z"/>
-<path d="M79 62h32v3H79z"/>
-<path d="M61 79h3v21h-3z"/>
-<path d="M62 79h3v21h-3z"/>
-<path d="M61 26h3v21h-3z"/>
-<path d="M62 26h3v21h-3z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 126" fill="#fff" xmlns:helldivers2="http://example.com/custom">
+  <path fill="#c9b269" d="M4 122v-20l20 20H4Zm118 0v-20l-20 20h20Zm0-118v20L102 4h20ZM4 4v20L24 4H4Z"/>
+  <circle cx="63" cy="63" r="12"/>
+  <path d="m43.8 84.7-.7-.7-1.4-1.4-.7-.7 9.2-9.2.7.7 1.4 1.4.7.7Z"/>
+  <path d="m85 82.2-.7.7-1.4 1.4-.7.7-9.2-9.2.7-.7 1.4-1.4.7-.7Z"/>
+  <path d="m43.8 41.3-.7.7-1.4 1.4-.7.7 9.2 9.2.7-.7 1.4-1.4.7-.7Z"/>
+  <path d="m85 43.8-.7-.7-1.4-1.4-.7-.7-9.2 9.2.7.7 1.4 1.4.7.7Z"/>
+  <path d="M15 65v-4h32v4H15Z"/>
+  <path d="M79 61h32v3H79z"/>
+  <path d="M79 62h32v3H79z"/>
+  <path d="M61 79h3v21h-3z"/>
+  <path d="M62 79h3v21h-3z"/>
+  <path d="M61 26h3v21h-3z"/>
+  <path d="M62 26h3v21h-3z"/>
+  <metadata>
+    <helldivers2:data>
+      <helldivers2:Name>Orbital Illumination Flare</helldivers2:Name>
+      <helldivers2:Combination>⯈⯈⯇⯇</helldivers2:Combination>
+      <helldivers2:Description>The Orbital Illumination Flare is a Stratagem with an unknown function. It is only found in the Stratagem Hero Game onboard the Super Destroyer so far.</helldivers2:Description>
+      <helldivers2:Level>1</helldivers2:Level>
+      <helldivers2:Category>General</helldivers2:Category>
+    </helldivers2:data>
+  </metadata>
 </svg>

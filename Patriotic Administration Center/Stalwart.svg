@@ -1,4 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 126" fill-rule="evenodd">
-    <path d="m80 81 3 3h30l2 2h3v1h3v1h-3l-1 1v1h2v1h-4l-3 5h-3v-1h-2v1H94v-1h-2v1h-2v-1l-2-1-3 3h-8v-6H65v6h-8l-3 3h-7s-3.855 5.6-3 8c.984 2.76-2 3-2 3l-5-3s-.774-2.848 0-4c.748-1.113 6-6 6-6v-4h-7l-1-1h-8l-4 4H10l-2 2H6l-1-1V83l1-1h30l7-1v-1h4v1h2v-1h2v1h1v-1h6v1h3v-1h1v1h2v-1h1v1h15zM49 94h6v2l-2 2h-4v-4z" fill="#49adc9"/>
-    <path d="M45 61h26l2-2h8l5-2.469L81 54h-8l-2-2H45v9zm0-13h26l2-2h8l5-2.469L81 41h-8l-2-2H45v9zm0-13h26l2-2h8l5-2.469L81 28h-8l-2-2H45v9z" fill="#fff"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 126" fill-rule="evenodd" xmlns:helldivers2="http://example.com/custom">
+  <path d="m80 81 3 3h30l2 2h3v1h3v1h-3l-1 1v1h2v1h-4l-3 5h-3v-1h-2v1H94v-1h-2v1h-2v-1l-2-1-3 3h-8v-6H65v6h-8l-3 3h-7s-3.855 5.6-3 8c.984 2.76-2 3-2 3l-5-3s-.774-2.848 0-4c.748-1.113 6-6 6-6v-4h-7l-1-1h-8l-4 4H10l-2 2H6l-1-1V83l1-1h30l7-1v-1h4v1h2v-1h2v1h1v-1h6v1h3v-1h1v1h2v-1h1v1h15zM49 94h6v2l-2 2h-4v-4z" fill="#49adc9"/>
+  <path d="M45 61h26l2-2h8l5-2.469L81 54h-8l-2-2H45v9zm0-13h26l2-2h8l5-2.469L81 41h-8l-2-2H45v9zm0-13h26l2-2h8l5-2.469L81 28h-8l-2-2H45v9z" fill="#fff"/>
+  <metadata>
+    <helldivers2:data>
+      <helldivers2:Name>Stalwart</helldivers2:Name>
+      <helldivers2:Combination>⯆⯇⯆⯅⯅⯇</helldivers2:Combination>
+      <helldivers2:Description>A more compact machine gun that is quicker to reload.</helldivers2:Description>
+      <helldivers2:Level>2</helldivers2:Level>
+      <helldivers2:Category>Gun</helldivers2:Category>
+    </helldivers2:data>
+  </metadata>
 </svg>

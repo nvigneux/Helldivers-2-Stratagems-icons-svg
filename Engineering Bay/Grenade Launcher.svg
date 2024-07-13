@@ -1,4 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 126" fill="#fff">
-	<path d="M27 28h10v3h21v23H37v3H27V28Zm37 3v23h25s11 0 11-11v-1s.8-11-11-11H64Z"/>
-	<path fill="#49adc9" d="M25 77v-2h9l1-3h6v1h4v-1h2v2h3v-2h4v2h35v-2h7v1h3v-1h7l2 2h3l1 1h5v4h-2v5l2 2h4v5h-3l-2 2h-8l-1 1H95v11h-7V94h-3l-1-1H72v7l-2 2h-3l-1 1H55l-6 11h-6l-2-2v-3l8-10v-3l-2-2H37l-5-3v-3h-7v-2H15v17l-3 2H7l-2-2V74l2-2h5l3 2v3h10Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 126" fill="#fff" xmlns:helldivers2="http://example.com/custom">
+  <path d="M27 28h10v3h21v23H37v3H27V28Zm37 3v23h25s11 0 11-11v-1s.8-11-11-11H64Z"/>
+  <path fill="#49adc9" d="M25 77v-2h9l1-3h6v1h4v-1h2v2h3v-2h4v2h35v-2h7v1h3v-1h7l2 2h3l1 1h5v4h-2v5l2 2h4v5h-3l-2 2h-8l-1 1H95v11h-7V94h-3l-1-1H72v7l-2 2h-3l-1 1H55l-6 11h-6l-2-2v-3l8-10v-3l-2-2H37l-5-3v-3h-7v-2H15v17l-3 2H7l-2-2V74l2-2h5l3 2v3h10Z"/>
+  <metadata>
+    <helldivers2:data>
+      <helldivers2:Name>Grenade Launcher</helldivers2:Name>
+      <helldivers2:Combination>⯆⯇⯅⯇⯆</helldivers2:Combination>
+      <helldivers2:Description>Effective against armored infantry, but not for vehicle armor or fortified buildings).</helldivers2:Description>
+      <helldivers2:Level>5</helldivers2:Level>
+      <helldivers2:Category>Gun</helldivers2:Category>
+    </helldivers2:data>
+  </metadata>
 </svg>

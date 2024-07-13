@@ -1,4 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 126" fill="#fff">
-	<path fill="#679552" d="M121 121H5v-20l17-7 20 10 21-10 21 10 20-10 17 7.2V121Z"/>
-	<path d="M37 75s24 16 26 16 26-16 26-16V29s-22-6-26-6-26 6-26 6v46Zm15-18 15-21-5 17h12L59 73l5-16H52Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 126" fill="#fff" xmlns:helldivers2="http://example.com/custom">
+  <path fill="#679552" d="M121 121H5v-20l17-7 20 10 21-10 21 10 20-10 17 7.2V121Z"/>
+  <path d="M37 75s24 16 26 16 26-16 26-16V29s-22-6-26-6-26 6-26 6v46Zm15-18 15-21-5 17h12L59 73l5-16H52Z"/>
+  <metadata>
+    <helldivers2:data>
+      <helldivers2:Name>Shield Generation Relay</helldivers2:Name>
+      <helldivers2:Combination>⯆⯅⯇⯆⯈⯈</helldivers2:Combination>
+      <helldivers2:Description>Stationary energy shield that protects you against projectiles.</helldivers2:Description>
+      <helldivers2:Level>10</helldivers2:Level>
+      <helldivers2:Category>Sentry</helldivers2:Category>
+    </helldivers2:data>
+  </metadata>
 </svg>

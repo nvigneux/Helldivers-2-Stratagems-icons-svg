@@ -1,7 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 126" fill="#fff">
-	<g fill="#de7b6c">
-		<path d="m44 20 3-10 7 7v13ZM31 55H16l-7-8 11.5-3.2Z"/>
-		<path d="M98 112 82 95H19L9 79l33.3-12.7L63 87h24V63L65.9 41.9 78 10l17 10v63l17 17 1 14Z"/>
-	</g>
-	<path d="M46 55v10l19 18h18V64L65 46H54V35L42 24l-3 14-14 5 11 12h10Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 126" fill="#fff" xmlns:helldivers2="http://example.com/custom">
+  <g fill="#de7b6c">
+    <path d="m44 20 3-10 7 7v13ZM31 55H16l-7-8 11.5-3.2Z"/>
+    <path d="M98 112 82 95H19L9 79l33.3-12.7L63 87h24V63L65.9 41.9 78 10l17 10v63l17 17 1 14Z"/>
+  </g>
+  <path d="M46 55v10l19 18h18V64L65 46H54V35L42 24l-3 14-14 5 11 12h10Z"/>
+  <metadata>
+    <helldivers2:data>
+      <helldivers2:Name>Eagle 500KG Bomb</helldivers2:Name>
+      <helldivers2:Combination>⯅⯈⯆⯆⯆</helldivers2:Combination>
+      <helldivers2:Description>Large, destructive bomb that destroys everything within range.</helldivers2:Description>
+      <helldivers2:Level>15</helldivers2:Level>
+      <helldivers2:Category>Airstrike</helldivers2:Category>
+    </helldivers2:data>
+  </metadata>
 </svg>

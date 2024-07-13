@@ -1,8 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 126" fill="#fff">
-	<g fill="#49adc9">
-		<path d="M79 41h9v10h-9z"/>
-		<path d="M75 41H64l-10-9v14l11 4v48h39l9-9V32l-10 9H92v14H75V41Z"/>
-		<path d="m54 27 11 10h37l11-10V16H54v11Z"/>
-	</g>
-	<path d="M8 99s24 16 26 16 26-16 26-16V53s-22-6-26-6-26 6-26 6v46Zm15-18 15-21-5 17h12L30 97l5-16H23Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 126" fill="#fff" xmlns:helldivers2="http://example.com/custom">
+  <g fill="#49adc9">
+    <path d="M79 41h9v10h-9z"/>
+    <path d="M75 41H64l-10-9v14l11 4v48h39l9-9V32l-10 9H92v14H75V41Z"/>
+    <path d="m54 27 11 10h37l11-10V16H54v11Z"/>
+  </g>
+  <path d="M8 99s24 16 26 16 26-16 26-16V53s-22-6-26-6-26 6-26 6v46Zm15-18 15-21-5 17h12L30 97l5-16H23Z"/>
+  <metadata>
+    <helldivers2:data>
+      <helldivers2:Name>Shield Generator Pack</helldivers2:Name>
+      <helldivers2:Combination>⯆⯅⯇⯈⯇⯈</helldivers2:Combination>
+      <helldivers2:Description>Generates a shield to protect players from high-speed projectiles, very useful in the latter stages.</helldivers2:Description>
+      <helldivers2:Level>20</helldivers2:Level>
+      <helldivers2:Category>Backpack</helldivers2:Category>
+    </helldivers2:data>
+  </metadata>
 </svg>
