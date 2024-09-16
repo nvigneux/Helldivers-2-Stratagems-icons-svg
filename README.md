@@ -107,6 +107,10 @@ Feel free to use them in your own projects !
             <td>Orbital Laser</td>
         </tr>
         <tr>
+            <td><a href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Orbital%20Cannons/Orbital%20Napalm%20Barrage.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Orbital%20Cannons/Orbital%20Napalm%20Barrage.svg" alt="Orbital Napalm Barrage" style="max-width: 100%;"></a></td>
+            <td>Orbital Napalm Barrage</td>
+        </tr>
+        <tr>
             <td><a href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Orbital%20Cannons/Orbital%20Railcannon%20Strike.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Orbital%20Cannons/Orbital%20Railcannon%20Strike.svg" alt="Orbital Railcannon Strike" style="max-width: 100%;"></a></td>
             <td>Orbital Railcannon Strike</td>
         </tr>
