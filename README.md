@@ -314,6 +314,26 @@ Feel free to use them in your own projects !
 </table>
 
 
+## Chemical Agents
+
+<table style="min-width:300px">
+    <thead>
+        <tr>
+            <th>Icon</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Chemical%20Agents/Sterilizer.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Chemical%20Agents/Sterilizer.svg" alt="Sterilizer" style="max-width: 100%;"></a></td>
+            <td>Sterilizer</td>
+        </tr>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Chemical%20Agents/Guard%20Dog%20Breath.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Chemical%20Agents/Guard%20Dog%20Breath.svg" alt="Gatling Sentry" style="max-width: 100%;"></a></td>
+            <td>Guard Dog Breath</td>
+        </tr>
+    </tbody>
+</table>
 
 
 ## General Stratagems
