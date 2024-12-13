@@ -336,6 +336,32 @@ Feel free to use them in your own projects !
 </table>
 
 
+## Urban Legends
+
+<table style="min-width:300px">
+    <thead>
+        <tr>
+            <th>Icon</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Urban%20Legends/Directional%20Shield.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Urban%20Legends/Directional%20Shield.svg" alt="Directional Shield" style="max-width: 100%;"></a></td>
+            <td>Directional Shield</td>
+        </tr>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Urban%20Legends/Flame%20Sentry.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Urban%20Legends/Flame%20Sentry.svg" alt="Flame Sentry" style="max-width: 100%;"></a></td>
+            <td>Flame Sentry</td>
+        </tr>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Urban%20Legends/Anti-Tank%20Emplacement.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Urban%20Legends/Anti-Tank%20Emplacement.svg" alt="Anti-Tank Emplacement" style="max-width: 100%;"></a></td>
+            <td>Anti-Tank Emplacement</td>
+        </tr>
+    </tbody>
+</table>
+
+
 ## General Stratagems
 
 <table style="min-width:300px">
