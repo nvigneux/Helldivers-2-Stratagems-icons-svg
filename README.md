@@ -10,6 +10,15 @@ Feel free to use them in your own projects !
 [Helldivers-2-Stratagems-icons-svg.zip](https://github.com/nvigneux/Helldivers-2-Stratagems-icons-svg/archive/refs/heads/master.zip) 
 
 # Icons Catalog
+> ### ⚠️ **Important Update Notice - PATCH 01.002.001 (13 dec)**
+> A recent update from Super Earth has *revised* some of our Stratagem icons.
+> * Anti-Materiel Rifle
+> * Stalwart
+> * Airburst Rocket Launcher
+> * Grenade Launcher
+>
+> If you spot inconsistencies, missing assets, or any unauthorized alien tampering, report it immediately !
+> Thank you for your understanding and support !
 
 ## Patriotic Administration Center
 
