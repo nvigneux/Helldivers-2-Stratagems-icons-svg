@@ -440,6 +440,30 @@ Feel free to use them in your own projects !
     </tbody>
 </table>
 
+
+## Experimental Stratagems
+The `_Experimental Stratagems` folder contains icons for stratagems that are not permanently available.
+
+<table style="min-width:300px">
+    <thead>
+        <tr>
+            <th>Icon</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/_Experimental%20Stratagems/Gas%20Mine"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/_Experimental%20Stratagems/Gas%20Mine.svg" alt="Gas Mine" style="max-width: 100%;"></a></td>
+            <td>Gas Mine</td>
+        </tr>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/_Experimental%20Stratagems/StA-X3%20W.A.S.P.%20Launcher.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/_Experimental%20Stratagems/StA-X3%20W.A.S.P.%20Launcher.svg" alt="StA-X3 W.A.S.P. Launcher" style="max-width: 100%;"></a></td>
+            <td>StA-X3 W.A.S.P. Launcher</td>
+        </tr>
+    </tbody>
+</table>
+
+
 # Support me
 ### If you find these resources helpful for your projects or simply enjoy the designs, consider supporting my efforts.
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/nvigneux?path=readme)
