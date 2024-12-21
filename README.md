@@ -453,7 +453,7 @@ The `_Experimental Stratagems` folder contains icons for stratagems that are not
     </thead>
     <tbody>
         <tr>
-            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/_Experimental%20Stratagems/Gas%20Mine"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/_Experimental%20Stratagems/Gas%20Mine.svg" alt="Gas Mine" style="max-width: 100%;"></a></td>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/_Experimental%20Stratagems/Gas%20Mine.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/_Experimental%20Stratagems/Gas%20Mine.svg" alt="Gas Mine" style="max-width: 100%;"></a></td>
             <td>Gas Mine</td>
         </tr>
         <tr>
