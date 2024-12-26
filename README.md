@@ -79,7 +79,7 @@ Feel free to use them in your own projects !
             <td>Spear</td>
         </tr>
         <tr>
-            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/_Experimental%20Stratagems/StA-X3%20W.A.S.P.%20Launcher.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/_Experimental%20Stratagems/StA-X3%20W.A.S.P.%20Launcher.svg" alt="StA-X3 W.A.S.P. Launcher" style="max-width: 100%;"></a></td>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Patriotic%20Administration%20Center/StA-X3%20W.A.S.P.%20Launcher.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Patriotic%20Administration%20Center/StA-X3%20W.A.S.P.%20Launcher.svg" alt="StA-X3 W.A.S.P. Launcher" style="max-width: 100%;"></a></td>
             <td>StA-X3 W.A.S.P. Launcher</td>
         </tr>
     </tbody>
