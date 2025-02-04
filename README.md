@@ -379,6 +379,24 @@ Feel free to use them in your own projects !
 </table>
 
 
+## Servants of Freedom
+
+<table style="min-width:300px">
+    <thead>
+        <tr>
+            <th>Icon</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Urban%20Legends/Portable%20Hellbomb.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Urban%20Legends/Portable%20Hellbomb.svg" alt="Portable Hellbomb" style="max-width: 100%;"></a></td>
+            <td>Portable Hellbomb</td>
+        </tr>
+    </tbody>
+</table>
+
+
 ## General Stratagems
 
 <table style="min-width:300px">
