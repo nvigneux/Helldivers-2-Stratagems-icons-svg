@@ -390,7 +390,7 @@ Feel free to use them in your own projects !
     </thead>
     <tbody>
         <tr>
-            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/servants_of_freedom_warbond/Servants%20of%20Freedom/Hellbomb%20Portable.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/servants_of_freedom_warbond/Servants%20of%20Freedom/Hellbomb%20Portable.svg" alt="Hellbomb Portable" style="max-width: 100%;"></a></td>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Servants%20of%20Freedom/Hellbomb%20Portable.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Servants%20of%20Freedom/Hellbomb%20Portable.svg" alt="Hellbomb Portable" style="max-width: 100%;"></a></td>
             <td>Hellbomb Portable</td>
         </tr>
     </tbody>
