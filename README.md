@@ -278,6 +278,10 @@ Feel free to use them in your own projects !
             <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Engineering%20Bay/Anti-Tank%20Mines.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Engineering%20Bay/Anti-Tank%20Mines.svg" alt="Anti-Tank Mines" style="max-width: 100%;"></a></td>
             <td>Anti-Tank Mines</td>
         </tr>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Engineering%20Bay/Gas%20Mine.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Engineering%20Bay/Gas%20Mine.svg" alt="Gas Mine" style="max-width: 100%;"></a></td>
+            <td>Gas Mine</td>
+        </tr>
     </tbody>
 </table>
 
@@ -465,22 +469,6 @@ Feel free to use them in your own projects !
 
 ## Experimental Stratagems
 The `_Experimental Stratagems` folder contains icons for stratagems that are not permanently available.
-
-<table style="min-width:300px">
-    <thead>
-        <tr>
-            <th>Icon</th>
-            <th>Name</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/_Experimental%20Stratagems/Gas%20Mine.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/_Experimental%20Stratagems/Gas%20Mine.svg" alt="Gas Mine" style="max-width: 100%;"></a></td>
-            <td>Gas Mine</td>
-        </tr>
-    </tbody>
-</table>
-
 
 # Support me
 ### If you find these resources helpful for your projects or simply enjoy the designs, consider supporting my efforts.
