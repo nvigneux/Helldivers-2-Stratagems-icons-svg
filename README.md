@@ -466,6 +466,23 @@ Feel free to use them in your own projects !
     </tbody>
 </table>
 
+## Borderline Justice
+
+<table style="min-width:300px">
+    <thead>
+        <tr>
+            <th>Icon</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Borderline%20Justice/Hover%20Pack.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Borderline%20Justice/Hover%20Pack.svg" alt="Hover Pack" style="max-width: 100%;"></a></td>
+            <td>Hover Pack</td>
+        </tr>
+    </tbody>
+</table>
+
 
 ## Experimental Stratagems
 The `_Experimental Stratagems` folder contains icons for stratagems that are not permanently available.
