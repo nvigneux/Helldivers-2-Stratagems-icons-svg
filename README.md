@@ -401,6 +401,24 @@ Feel free to use them in your own projects !
 </table>
 
 
+## Borderline Justice
+
+<table style="min-width:300px">
+    <thead>
+        <tr>
+            <th>Icon</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Borderline%20Justice/Hover%20Pack.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Borderline%20Justice/Hover%20Pack.svg" alt="Hover Pack" style="max-width: 100%;"></a></td>
+            <td>Hover Pack</td>
+        </tr>
+    </tbody>
+</table>
+
+
 ## General Stratagems
 
 <table style="min-width:300px">
@@ -462,23 +480,6 @@ Feel free to use them in your own projects !
         <tr>
             <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Hive%20Breaker%20Drill.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Hive%20Breaker%20Drill.svg" alt="Hive Breaker Drill" style="max-width: 100%;"></a></td>
             <td>Hive Breaker Drill</td>
-        </tr>
-    </tbody>
-</table>
-
-## Borderline Justice
-
-<table style="min-width:300px">
-    <thead>
-        <tr>
-            <th>Icon</th>
-            <th>Name</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Borderline%20Justice/Hover%20Pack.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Borderline%20Justice/Hover%20Pack.svg" alt="Hover Pack" style="max-width: 100%;"></a></td>
-            <td>Hover Pack</td>
         </tr>
     </tbody>
 </table>
