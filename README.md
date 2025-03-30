@@ -488,6 +488,21 @@ Feel free to use them in your own projects !
 ## Experimental Stratagems
 The `_Experimental Stratagems` folder contains icons for stratagems that are not permanently available.
 
+<table style="min-width:300px">
+    <thead>
+        <tr>
+            <th>Icon</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/_Experimental%20Stratagems/Grenadier%20Battlement.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/_Experimental%20Stratagems/Grenadier%20Battlement.svg" alt="Grenadier Battlement" style="max-width: 100%;"></a></td>
+            <td>Grenadier Battlement</td>
+        </tr>
+    </tbody>
+</table>
+
 # Support me
 ### If you find these resources helpful for your projects or simply enjoy the designs, consider supporting my efforts.
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/nvigneux?path=readme)
