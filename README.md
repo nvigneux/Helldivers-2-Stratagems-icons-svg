@@ -159,6 +159,10 @@ Feel free to use them in your own projects !
             <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Bridge/Tesla%20Tower.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Bridge/Tesla%20Tower.svg" alt="Tesla Tower" style="max-width: 100%;"></a></td>
             <td>Tesla Tower</td>
         </tr>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Bridge/Grenadier%20Battlement.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Bridge/Grenadier%20Battlement.svg" alt="Grenadier Battlement" style="max-width: 100%;"></a></td>
+            <td>Grenadier Battlement</td>
+        </tr>
     </tbody>
 </table>
 
