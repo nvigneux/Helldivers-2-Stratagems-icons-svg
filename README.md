@@ -491,10 +491,6 @@ The `_Experimental Stratagems` folder contains icons for stratagems that are not
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/_Experimental%20Stratagems/Grenadier%20Battlement.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/_Experimental%20Stratagems/Grenadier%20Battlement.svg" alt="Grenadier Battlement" style="max-width: 100%;"></a></td>
-            <td>Grenadier Battlement</td>
-        </tr>
     </tbody>
 </table>
 
