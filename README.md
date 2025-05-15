@@ -414,6 +414,24 @@ Feel free to use them in your own projects !
 </table>
 
 
+## Masters of Ceremony
+
+<table style="min-width:300px">
+    <thead>
+        <tr>
+            <th>Icon</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Master%20of%20Ceremony/One%20True%20Flag.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Master%20of%20Ceremony/One%20True%20Flag.svg" alt="One True Flag" style="max-width: 100%;"></a></td>
+            <td>One True Flag</td>
+        </tr>
+    </tbody>
+</table>
+
+
 ## General Stratagems
 
 <table style="min-width:300px">
