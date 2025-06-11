@@ -443,8 +443,12 @@ Feel free to use them in your own projects !
     </thead>
     <tbody>
         <tr>
-            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Force%20of%20Law/GL-52%20De-Escalator.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Force%20of%20Law/GL-52%20De-Escalator.svg" alt="One True Flag" style="max-width: 100%;"></a></td>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Force%20of%20Law/GL-52%20De-Escalator.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Force%20of%20Law/GL-52%20De-Escalator.svg" alt="GL-52 De-Escalator" style="max-width: 100%;"></a></td>
             <td>GL-52 De-Escalator</td>
+        </tr>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Force%20of%20Law/Guard%20Dog%20K-9.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Force%20of%20Law/Guard%20Dog%20K-9.svg" alt="Guard Dog K-9" style="max-width: 100%;"></a></td>
+            <td>Guard Dog K-9</td>
         </tr>
     </tbody>
 </table>
