@@ -432,6 +432,24 @@ Feel free to use them in your own projects !
 </table>
 
 
+## Force of Law
+
+<table style="min-width:300px">
+    <thead>
+        <tr>
+            <th>Icon</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Force%20of%20Law/GL-52%20De-Escalator.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Force%20of%20Law/GL-52%20De-Escalator.svg" alt="One True Flag" style="max-width: 100%;"></a></td>
+            <td>GL-52 De-Escalator</td>
+        </tr>
+    </tbody>
+</table>
+
+
 ## General Stratagems
 
 <table style="min-width:300px">
