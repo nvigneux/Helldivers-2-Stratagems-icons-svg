@@ -454,6 +454,32 @@ Feel free to use them in your own projects !
 </table>
 
 
+## Control Group
+
+<table style="min-width:300px">
+    <thead>
+        <tr>
+            <th>Icon</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Control%20Group/Laser%20Sentry.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Control%20Group/Laser%20Sentry.svg" alt="Laser Sentry" style="max-width: 100%;"></a></td>
+            <td>Laser Sentry</td>
+        </tr>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Control%20Group/Warp%20Pack.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Control%20Group/Warp%20Pack.svg" alt="Warp Pack" style="max-width: 100%;"></a></td>
+            <td>Warp Pack</td>
+        </tr>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Control%20Group/Epoch.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Control%20Group/Epoch.svg" alt="Epoch" style="max-width: 100%;"></a></td>
+            <td>Epoch</td>
+        </tr>
+    </tbody>
+</table>
+
+
 ## General Stratagems
 
 <table style="min-width:300px">
