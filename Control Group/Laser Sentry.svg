@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 126 126">
+  <defs>
+    <style>
+      .cls-2{fill-rule:evenodd}.cls-2,.cls-3{fill:#fff}
+    </style>
+  </defs>
+  <path fill="#679552" fill-rule="evenodd" d="M90 33s-6.007-8.3-18-15h43v15H90Zm2 24v14H31V52h7l-6 6 8 7 7-7v10h10V58h1l8 7 7-7-8-7h9V41h-9l8-7-7-7-8 7h-1V24H47v10l-7-7-8 7 6 6h-7V18h22s39-.032 39 39Zm-7 19v16H41V76h44Zm8 20 13 16H18l13-16h62Z"/>
+  <path d="M51.762 37.745a8.128 8.128 0 1 1-8.127 8.128 8.128 8.128 0 0 1 8.127-8.128Z" class="cls-2"/>
+  <path d="M5 44h46v4H5zM50 27h4v8h-4z" class="cls-3"/>
+  <path d="M50 57h4v8h-4z" class="cls-3"/>
+  <path d="M64.221 48v-4h8v4h-8Z" class="cls-2"/>
+  <path d="m63 39.241-2.828-2.828 5.657-5.657 2.829 2.828Z" class="cls-2"/>
+  <path d="m36.134 33.564 2.828-2.828 5.657 5.657-2.828 2.828Z" class="cls-2"/>
+  <path d="m63.264 53.008-2.869 2.662 5.738 5.324L69 58.332Z" class="cls-2"/>
+  <path d="m36.009 58.352 2.869 2.662 5.738-5.324-2.869-2.662Z" class="cls-2"/>
+</svg>
