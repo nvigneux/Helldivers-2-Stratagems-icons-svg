@@ -491,15 +491,15 @@ Feel free to use them in your own projects !
     </thead>
     <tbody>
         <tr>
-            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Devils%20Dust/Speargun.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Devils%20Dust/Speargun.svg" alt="Laser Sentry" style="max-width: 100%;"></a></td>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Dust%Devils/Speargun.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Dust%Devils/Speargun.svg" alt="Laser Sentry" style="max-width: 100%;"></a></td>
             <td>Speargun</td>
         </tr>
         <tr>
-            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Devils%20Dust/Expendable%20Napalm.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Devils%20Dust/Expendable%20Napalm.svg" alt="Warp Pack" style="max-width: 100%;"></a></td>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Dust%Devils/Expendable%20Napalm.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Dust%Devils/Expendable%20Napalm.svg" alt="Warp Pack" style="max-width: 100%;"></a></td>
             <td>Expendable Napalm</td>
         </tr>
         <tr>
-            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Devils%20Dust/Solo%20Silo.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Devils%20Dust/Solo%20Silo.svg" alt="Epoch" style="max-width: 100%;"></a></td>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Dust%Devils/Solo%20Silo.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Dust%Devils/Solo%20Silo.svg" alt="Epoch" style="max-width: 100%;"></a></td>
             <td>Solo Silo</td>
         </tr>
     </tbody>
