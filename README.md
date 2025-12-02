@@ -491,16 +491,41 @@ Feel free to use them in your own projects !
     </thead>
     <tbody>
         <tr>
-            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Dust%20Devils/Speargun.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Dust%20Devils/Speargun.svg" alt="Laser Sentry" style="max-width: 100%;"></a></td>
-            <td>Speargun</td>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Dust%20Devils/Solo%20Silo.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Dust%20Devils/Solo%20Silo.svg" alt="Epoch" style="max-width: 100%;"></a></td>
+            <td>Solo Silo</td>
         </tr>
         <tr>
             <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Dust%20Devils/Expendable%20Napalm.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Dust%20Devils/Expendable%20Napalm.svg" alt="Warp Pack" style="max-width: 100%;"></a></td>
             <td>Expendable Napalm</td>
         </tr>
         <tr>
-            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Dust%20Devils/Solo%20Silo.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Dust%20Devils/Solo%20Silo.svg" alt="Epoch" style="max-width: 100%;"></a></td>
-            <td>Solo Silo</td>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Dust%20Devils/Speargun.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Dust%20Devils/Speargun.svg" alt="Laser Sentry" style="max-width: 100%;"></a></td>
+            <td>Speargun</td>
+        </tr>
+    </tbody>
+</table>
+
+## Python Commandos
+
+<table style="min-width:300px">
+    <thead>
+        <tr>
+            <th>Icon</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Python%20Commandos/Maxigun.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Python%20Commandos/Maxigun.svg" alt="Maxigun" style="max-width: 100%;"></a></td>
+            <td>Maxigun</td>
+        </tr>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Python%20Commandos/Defoliation%20Tool.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Python%20Commandos/Defoliation%20Tool.svg" alt="Defoliation Tool" style="max-width: 100%;"></a></td>
+            <td>Defoliation Tool</td>
+        </tr>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Python%20Commandos/Guard%20Dog%20Hot%20Dog.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Python%20Commandos/Guard%20Dog%20Hot%20Dog.svg" alt="Guard Dog Hot Dog" style="max-width: 100%;"></a></td>
+            <td>Guard Dog Hot Dog</td>
         </tr>
     </tbody>
 </table>
