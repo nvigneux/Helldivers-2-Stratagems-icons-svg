@@ -613,6 +613,10 @@ Feel free to use them in your own projects !
             <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Cargo%20Container.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Cargo%20Container.svg" alt="Cargo Container" style="max-width: 100%;"></a></td>
             <td>Cargo Container</td>
         </tr>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Call%20In%20Super%20Destroyer.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/General%20Stratagems/Call%20In%20Super%20Destroyer.svg" alt="Call In Super Destroyer" style="max-width: 100%;"></a></td>
+            <td>Call In Super Destroyer</td>
+        </tr>
     </tbody>
 </table>
 
