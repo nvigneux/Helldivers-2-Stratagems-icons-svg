@@ -547,6 +547,36 @@ Feel free to use them in your own projects !
     </tbody>
 </table>
 
+
+## Siege Breakers
+
+<table style="min-width:300px">
+    <thead>
+        <tr>
+            <th>Icon</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Siege%20Breakers/GL-28.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Siege%20Breakers/GL-28.svg" alt="GL-28" style="max-width: 100%;"></a></td>
+            <td>GL-28</td>
+        </tr>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Siege%20Breakers/EAT-411.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Siege%20Breakers/EAT-411.svg" alt="EAT-411" style="max-width: 100%;"></a></td>
+            <td>EAT-411</td>
+        </tr>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Siege%20Breakers/CQC-20.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Siege%20Breakers/CQC-20.svg" alt="CQC-20" style="max-width: 100%;"></a></td>
+            <td>CQC-20</td>
+        </tr>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Siege%20Breakers/Bastion%20MK%20XVI.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Siege%20Breakers/Bastion%20MK%20XVI.svg" alt="Bastion MK XVI" style="max-width: 100%;"></a></td>
+            <td>Bastion MK XVI</td>
+        </tr>
+    </tbody>
+</table>
+
 ## General Stratagems
 
 <table style="min-width:300px">
