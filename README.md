@@ -280,27 +280,6 @@ Feel free to use them in your own projects !
     </tbody>
 </table>
 
-## Entrenched Division
-
-<table style="min-width:300px">
-    <thead>
-        <tr>
-            <th>Icon</th>
-            <th>Name</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Entrenched%20Division/Gas%20Mortar%20Sentry.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Entrenched%20Division/Gas%20Mortar%20Sentry.svg" alt="A/GM-17 Gas Mortar Sentry" style="max-width: 100%;"></a></td>
-            <td>A/GM-17 Gas Mortar Sentry</td>
-        </tr>
-        <tr>
-            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Entrenched%20Division/Cremator.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Entrenched%20Division/Cremator.svg" alt="B/FLAM-80 Cremator" style="max-width: 100%;"></a></td>
-            <td>B/FLAM-80 Cremator</td>
-        </tr>
-    </tbody>
-</table>
-
 ## Robotics Workshop
 
 <table style="min-width:300px">
@@ -594,6 +573,27 @@ Feel free to use them in your own projects !
         <tr>
             <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Siege%20Breakers/Bastion%20MK%20XVI.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Siege%20Breakers/Bastion%20MK%20XVI.svg" alt="Bastion MK XVI" style="max-width: 100%;"></a></td>
             <td>Bastion MK XVI</td>
+        </tr>
+    </tbody>
+</table>
+
+## Entrenched Division
+
+<table style="min-width:300px">
+    <thead>
+        <tr>
+            <th>Icon</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Entrenched%20Division/Gas%20Mortar%20Sentry.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Entrenched%20Division/Gas%20Mortar%20Sentry.svg" alt="A/GM-17 Gas Mortar Sentry" style="max-width: 100%;"></a></td>
+            <td>Gas Mortar Sentry</td>
+        </tr>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Entrenched%20Division/Cremator.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Entrenched%20Division/Cremator.svg" alt="B/FLAM-80 Cremator" style="max-width: 100%;"></a></td>
+            <td>Cremator</td>
         </tr>
     </tbody>
 </table>
