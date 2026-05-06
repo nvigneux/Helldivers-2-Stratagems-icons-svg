@@ -598,6 +598,31 @@ Feel free to use them in your own projects !
     </tbody>
 </table>
 
+## Exo Experts
+
+<table style="min-width:300px">
+    <thead>
+        <tr>
+            <th>Icon</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Exo%20Experts/Bullet%20Storm.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Exo%20Experts/Bullet%20Storm.svg" alt="Bullet Storm" style="max-width: 100%;"></a></td>
+            <td>Bullet Storm</td>
+        </tr>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Exo%20Experts/Lumberer%20Exosuit.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Exo%20Experts/Lumberer%20Exosuit.svg" alt="Lumberer Exosuit" style="max-width: 100%;"></a></td>
+            <td>Lumberer Exosuit</td>
+        </tr>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Exo%20Experts/Breakthrough%20Exosuit.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Exo%20Experts/Breakthrough%20Exosuit.svg" alt="Breakthrough Exosuit" style="max-width: 100%;"></a></td>
+            <td>Breakthrough Exosuit</td>
+        </tr>
+    </tbody>
+</table>
+
 ## General Stratagems
 
 <table style="min-width:300px">
