@@ -714,3 +714,22 @@ The `_Experimental Stratagems` folder contains icons for stratagems that are not
 # Support me
 ### If you find these resources helpful for your projects or simply enjoy the designs, consider supporting my efforts.
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/nvigneux?path=readme)
+
+# Figma file available for contributors
+
+I’ve been working on a Figma file that gathers all the stratagem icons from this repository.
+
+[https://www.figma.com/design/fU3zyE3n7nVwdqtYFyL2Tx/Stratagem-Hero-Icons](https://www.figma.com/design/fU3zyE3n7nVwdqtYFyL2Tx/Stratagem-Hero-Icons)
+
+
+The goal is to make it easier to create new icons by reusing the existing SVGs and keeping the style consistent across the project.
+
+This should help contributors:
+- understand how the icons are built
+- reuse existing shapes and components
+- create new stratagem icons more easily
+- avoid editing SVGs manually from scratch
+
+I’ll keep improving the file over time, but it should already be useful for anyone who wants to help with future icon updates.
+
+Thanks again to everyone who contributed to the project and helped keep it up to date while I was away.
