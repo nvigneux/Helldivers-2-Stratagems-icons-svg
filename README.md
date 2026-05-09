@@ -9,6 +9,9 @@ Feel free to use them in your own projects !
 ## Download all icons
 [Helldivers-2-Stratagems-icons-svg.zip](https://github.com/nvigneux/Helldivers-2-Stratagems-icons-svg/archive/refs/heads/master.zip) 
 
+## Figma resources available
+> [View the Figma file and contribution workflow ↓](#figma-file-available-for-contributors)
+
 # Icons Catalog
 
 ## Patriotic Administration Center
