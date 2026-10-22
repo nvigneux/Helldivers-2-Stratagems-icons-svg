@@ -659,6 +659,29 @@ Feel free to use them in your own projects !
     </tbody>
 </table>
 
+
+## Scope of Authority
+
+<table style="min-width:300px">
+    <thead>
+        <tr>
+            <th>Icon</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Scope%20of%20Authority/AMW-20%20Apex.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Scope%20of%20Authority/AMW-20%20Apex.svg" alt="AMW-20 Apex" style="max-width: 100%;"></a></td>
+            <td>AMW-20 Apex</td>
+        </tr>
+        <tr>
+            <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Scope%20of%20Authority/LAS-44%20Nova.svg"><img width=55 src="https://raw.githubusercontent.com/nvigneux/Helldivers-2-Stratagems-icons-svg/master/Scope%20of%20Authority/LAS-44%20Nova.svg" alt="LAS-44 Nova" style="max-width: 100%;"></a></td>
+            <td>LAS-44 Nova</td>
+        </tr>
+    </tbody>
+</table>
+
+
 ## General Stratagems
 
 <table style="min-width:300px">
