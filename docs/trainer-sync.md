@@ -1,19 +1,19 @@
-# Trainer synchronization notifications
+# Trainer icon PRs
 
-`.github/workflows/notify-trainer.yml` sends `stratagem-icons-updated` via
-`repository_dispatch` when SVG paths change on master. It also supports manual dispatch.
-Keep creating and organizing icons as usual; no data file or code sequence is required here.
+SVG changes on master send a `stratagem-icons-updated` repository_dispatch event to
+Stratagem-Hero-Trainer. You can also run the notification workflow manually.
 
-Set the source repository Actions secret `TRAINER_DISPATCH_TOKEN` to a fine-grained token
-restricted to `nvigneux/Stratagem-Hero-Trainer` with Contents read/write (the GitHub API's
-required permission for dispatch). Do not commit the token. Set an expiration and rotate it.
+## Setup
 
-The Trainer workflow must be installed on its default branch first. It always reads this
-repository's actual master snapshot, never an untrusted payload ref/path. Trainer's own
-manual trigger and daily fallback recover from failed notifications. Adds, modifications,
-renames and missing files are identified there; removed SVGs do not delete Trainer entries.
+Install the Trainer workflow first. Add the source repository Actions secret
+`TRAINER_DISPATCH_TOKEN`: a fine-grained PAT restricted to Stratagem-Hero-Trainer with
+Contents read/write, which GitHub requires for repository_dispatch. Set an expiration and
+rotate it before expiry. Never commit the token.
 
-Installation, bot credentials, manual code verification, branch protection and maintenance
-are documented in the Trainer's
-[docs/stratagem-sync.md](https://github.com/nvigneux/Stratagem-Hero-Trainer/blob/master/docs/stratagem-sync.md).
-No PR is automatically merged and no new sequence becomes playable without explicit review.
+The Trainer reads source master and opens a PR containing only new SVGs, in the matching
+department/Warbond folders. Ask Codex to complete the existing Trainer catalogue in that
+PR, then review and merge it manually. No code lookup or LLM call runs in GitHub Actions.
+
+An open icon PR is left untouched. Further icons wait for the next daily/manual sync after
+it is merged or closed. Existing icons and game data are never overwritten or deleted.
+See the Trainer's [setup guide](https://github.com/nvigneux/Stratagem-Hero-Trainer/blob/master/docs/stratagem-sync.md).

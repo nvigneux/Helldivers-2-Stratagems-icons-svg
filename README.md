@@ -796,5 +796,5 @@ Thanks again to everyone who contributed to the project and helped keep it up to
 
 ## Automated Trainer synchronization
 
-SVG changes on master notify Stratagem Hero Trainer for a reviewed synchronization PR.
+SVG changes on master notify Stratagem Hero Trainer to open an icons-only PR.
 Your icon authoring process stays the same. See [setup](docs/trainer-sync.md).
