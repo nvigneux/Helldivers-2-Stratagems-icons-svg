@@ -1,0 +1,18 @@
+name: Notify Stratagem Hero Trainer
+on:
+  push:
+    branches: [master]
+    paths: ['**/*.svg']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Request a trusted master snapshot synchronization
+        env:
+          GH_TOKEN: ${{ secrets.TRAINER_DISPATCH_TOKEN }}
+        run: |
+          gh api --method POST repos/nvigneux/Stratagem-Hero-Trainer/dispatches \
+            -f event_type=stratagem-icons-updated

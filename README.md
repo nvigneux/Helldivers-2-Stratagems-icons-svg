@@ -793,3 +793,8 @@ Thanks again to everyone who contributed to the project and helped keep it up to
 # Support me
 ### If you find these resources helpful for your projects or simply enjoy the designs, consider supporting my efforts.
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/nvigneux?path=readme)
+
+## Automated Trainer synchronization
+
+SVG changes on master notify Stratagem Hero Trainer for a reviewed synchronization PR.
+Your icon authoring process stays the same. See [setup](docs/trainer-sync.md).
